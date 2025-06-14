@@ -14,4 +14,4 @@ Mentors
 
 _**Nambiar Anand Sreenivasan**:  [@NambiarAnand](https://github.com/NambiarAnand)_
 
-_**Mentor 2**:  [@mentor2](https://github.com/mentor2)_
+_**R Gopikrishnan**:  [@Rgopikrishnan18](https://github.com/Rgopikrishnan18)_
