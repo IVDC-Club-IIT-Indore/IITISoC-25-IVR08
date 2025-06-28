@@ -2,7 +2,7 @@
 
 Team Members
 
-_**Team Member 1**:  [@user1](https://github.com/UnceasingEagerness)_
+_**Team Member 1**:  [@UnceasingEagerness](https://github.com/UnceasingEagerness)_
 
 _**Team Member 2**:  [@user2](https://github.com/user2)_
 
