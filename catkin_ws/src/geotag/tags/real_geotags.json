@@ -1,0 +1,6211 @@
+[
+  {
+    "sector_id": 1,
+    "drone_id": 1,
+    "center_latitude": 22.5200083,
+    "center_longitude": 75.9200097,
+    "timestamp": "2025-06-14 10:42:14"
+  },
+  {
+    "sector_id": 2,
+    "drone_id": 1,
+    "center_latitude": 22.5201979,
+    "center_longitude": 75.9198885,
+    "timestamp": "2025-06-14 10:43:08"
+  },
+  {
+    "sector_id": 3,
+    "drone_id": 1,
+    "center_latitude": 22.5203869,
+    "center_longitude": 75.9197657,
+    "timestamp": "2025-06-14 10:43:13"
+  },
+  {
+    "sector_id": 4,
+    "drone_id": 1,
+    "center_latitude": 22.5205763,
+    "center_longitude": 75.9196425,
+    "timestamp": "2025-06-14 10:43:18"
+  },
+  {
+    "sector_id": 5,
+    "drone_id": 1,
+    "center_latitude": 22.5207659,
+    "center_longitude": 75.91952,
+    "timestamp": "2025-06-14 10:43:23"
+  },
+  {
+    "sector_id": 6,
+    "drone_id": 1,
+    "center_latitude": 22.5209551,
+    "center_longitude": 75.9193979,
+    "timestamp": "2025-06-14 10:43:28"
+  },
+  {
+    "sector_id": 7,
+    "drone_id": 1,
+    "center_latitude": 22.5211442,
+    "center_longitude": 75.9192753,
+    "timestamp": "2025-06-14 10:43:33"
+  },
+  {
+    "sector_id": 8,
+    "drone_id": 1,
+    "center_latitude": 22.5213338,
+    "center_longitude": 75.9191528,
+    "timestamp": "2025-06-14 10:43:38"
+  },
+  {
+    "sector_id": 9,
+    "drone_id": 1,
+    "center_latitude": 22.5215229,
+    "center_longitude": 75.9190302,
+    "timestamp": "2025-06-14 10:43:43"
+  },
+  {
+    "sector_id": 10,
+    "drone_id": 1,
+    "center_latitude": 22.5217122,
+    "center_longitude": 75.9189081,
+    "timestamp": "2025-06-14 10:43:48"
+  },
+  {
+    "sector_id": 11,
+    "drone_id": 1,
+    "center_latitude": 22.5219012,
+    "center_longitude": 75.9187855,
+    "timestamp": "2025-06-14 10:43:53"
+  },
+  {
+    "sector_id": 12,
+    "drone_id": 1,
+    "center_latitude": 22.5220909,
+    "center_longitude": 75.9186637,
+    "timestamp": "2025-06-14 10:43:57"
+  },
+  {
+    "sector_id": 13,
+    "drone_id": 1,
+    "center_latitude": 22.52228,
+    "center_longitude": 75.9185407,
+    "timestamp": "2025-06-14 10:44:02"
+  },
+  {
+    "sector_id": 14,
+    "drone_id": 1,
+    "center_latitude": 22.5224698,
+    "center_longitude": 75.9184181,
+    "timestamp": "2025-06-14 10:44:07"
+  },
+  {
+    "sector_id": 15,
+    "drone_id": 1,
+    "center_latitude": 22.5226587,
+    "center_longitude": 75.9182959,
+    "timestamp": "2025-06-14 10:44:12"
+  },
+  {
+    "sector_id": 16,
+    "drone_id": 1,
+    "center_latitude": 22.5228472,
+    "center_longitude": 75.9181731,
+    "timestamp": "2025-06-14 10:44:17"
+  },
+  {
+    "sector_id": 17,
+    "drone_id": 1,
+    "center_latitude": 22.5230363,
+    "center_longitude": 75.9180511,
+    "timestamp": "2025-06-14 10:44:22"
+  },
+  {
+    "sector_id": 18,
+    "drone_id": 1,
+    "center_latitude": 22.5232259,
+    "center_longitude": 75.9179289,
+    "timestamp": "2025-06-14 10:44:27"
+  },
+  {
+    "sector_id": 19,
+    "drone_id": 1,
+    "center_latitude": 22.523415,
+    "center_longitude": 75.9178063,
+    "timestamp": "2025-06-14 10:44:32"
+  },
+  {
+    "sector_id": 20,
+    "drone_id": 1,
+    "center_latitude": 22.5236047,
+    "center_longitude": 75.9176842,
+    "timestamp": "2025-06-14 10:44:37"
+  },
+  {
+    "sector_id": 21,
+    "drone_id": 1,
+    "center_latitude": 22.5237939,
+    "center_longitude": 75.9175613,
+    "timestamp": "2025-06-14 10:44:42"
+  },
+  {
+    "sector_id": 22,
+    "drone_id": 1,
+    "center_latitude": 22.5239833,
+    "center_longitude": 75.9174391,
+    "timestamp": "2025-06-14 10:44:47"
+  },
+  {
+    "sector_id": 23,
+    "drone_id": 1,
+    "center_latitude": 22.5241733,
+    "center_longitude": 75.917317,
+    "timestamp": "2025-06-14 10:44:51"
+  },
+  {
+    "sector_id": 24,
+    "drone_id": 1,
+    "center_latitude": 22.5243622,
+    "center_longitude": 75.9171937,
+    "timestamp": "2025-06-14 10:44:56"
+  },
+  {
+    "sector_id": 25,
+    "drone_id": 1,
+    "center_latitude": 22.5245518,
+    "center_longitude": 75.9170718,
+    "timestamp": "2025-06-14 10:45:01"
+  },
+  {
+    "sector_id": 26,
+    "drone_id": 1,
+    "center_latitude": 22.5247403,
+    "center_longitude": 75.916949,
+    "timestamp": "2025-06-14 10:45:06"
+  },
+  {
+    "sector_id": 27,
+    "drone_id": 1,
+    "center_latitude": 22.5249295,
+    "center_longitude": 75.9168273,
+    "timestamp": "2025-06-14 10:45:11"
+  },
+  {
+    "sector_id": 28,
+    "drone_id": 1,
+    "center_latitude": 22.5251195,
+    "center_longitude": 75.9167052,
+    "timestamp": "2025-06-14 10:45:16"
+  },
+  {
+    "sector_id": 29,
+    "drone_id": 1,
+    "center_latitude": 22.5253086,
+    "center_longitude": 75.9165826,
+    "timestamp": "2025-06-14 10:45:21"
+  },
+  {
+    "sector_id": 30,
+    "drone_id": 1,
+    "center_latitude": 22.5254984,
+    "center_longitude": 75.9164602,
+    "timestamp": "2025-06-14 10:45:26"
+  },
+  {
+    "sector_id": 31,
+    "drone_id": 1,
+    "center_latitude": 22.5256875,
+    "center_longitude": 75.9163367,
+    "timestamp": "2025-06-14 10:45:31"
+  },
+  {
+    "sector_id": 32,
+    "drone_id": 1,
+    "center_latitude": 22.5258769,
+    "center_longitude": 75.9162138,
+    "timestamp": "2025-06-14 10:45:36"
+  },
+  {
+    "sector_id": 33,
+    "drone_id": 1,
+    "center_latitude": 22.5260661,
+    "center_longitude": 75.9160918,
+    "timestamp": "2025-06-14 10:45:41"
+  },
+  {
+    "sector_id": 34,
+    "drone_id": 1,
+    "center_latitude": 22.5262553,
+    "center_longitude": 75.9159696,
+    "timestamp": "2025-06-14 10:45:45"
+  },
+  {
+    "sector_id": 35,
+    "drone_id": 1,
+    "center_latitude": 22.5264442,
+    "center_longitude": 75.9158471,
+    "timestamp": "2025-06-14 10:45:50"
+  },
+  {
+    "sector_id": 36,
+    "drone_id": 1,
+    "center_latitude": 22.5266334,
+    "center_longitude": 75.9157254,
+    "timestamp": "2025-06-14 10:45:55"
+  },
+  {
+    "sector_id": 37,
+    "drone_id": 1,
+    "center_latitude": 22.526823,
+    "center_longitude": 75.9156033,
+    "timestamp": "2025-06-14 10:46:00"
+  },
+  {
+    "sector_id": 38,
+    "drone_id": 1,
+    "center_latitude": 22.5270124,
+    "center_longitude": 75.9154803,
+    "timestamp": "2025-06-14 10:46:05"
+  },
+  {
+    "sector_id": 39,
+    "drone_id": 1,
+    "center_latitude": 22.5272014,
+    "center_longitude": 75.9153575,
+    "timestamp": "2025-06-14 10:46:10"
+  },
+  {
+    "sector_id": 40,
+    "drone_id": 1,
+    "center_latitude": 22.5273904,
+    "center_longitude": 75.9152352,
+    "timestamp": "2025-06-14 10:46:15"
+  },
+  {
+    "sector_id": 41,
+    "drone_id": 1,
+    "center_latitude": 22.5275805,
+    "center_longitude": 75.9151128,
+    "timestamp": "2025-06-14 10:46:20"
+  },
+  {
+    "sector_id": 42,
+    "drone_id": 1,
+    "center_latitude": 22.5277698,
+    "center_longitude": 75.9149904,
+    "timestamp": "2025-06-14 10:46:25"
+  },
+  {
+    "sector_id": 43,
+    "drone_id": 1,
+    "center_latitude": 22.5279587,
+    "center_longitude": 75.9148679,
+    "timestamp": "2025-06-14 10:46:30"
+  },
+  {
+    "sector_id": 44,
+    "drone_id": 1,
+    "center_latitude": 22.5281479,
+    "center_longitude": 75.9147457,
+    "timestamp": "2025-06-14 10:46:34"
+  },
+  {
+    "sector_id": 45,
+    "drone_id": 1,
+    "center_latitude": 22.5283375,
+    "center_longitude": 75.9146237,
+    "timestamp": "2025-06-14 10:46:39"
+  },
+  {
+    "sector_id": 46,
+    "drone_id": 1,
+    "center_latitude": 22.5285274,
+    "center_longitude": 75.9145012,
+    "timestamp": "2025-06-14 10:46:44"
+  },
+  {
+    "sector_id": 47,
+    "drone_id": 1,
+    "center_latitude": 22.5287328,
+    "center_longitude": 75.9144074,
+    "timestamp": "2025-06-14 10:46:50"
+  },
+  {
+    "sector_id": 48,
+    "drone_id": 1,
+    "center_latitude": 22.5289579,
+    "center_longitude": 75.9144076,
+    "timestamp": "2025-06-14 10:46:55"
+  },
+  {
+    "sector_id": 49,
+    "drone_id": 1,
+    "center_latitude": 22.5291836,
+    "center_longitude": 75.9144089,
+    "timestamp": "2025-06-14 10:47:00"
+  },
+  {
+    "sector_id": 50,
+    "drone_id": 1,
+    "center_latitude": 22.5294091,
+    "center_longitude": 75.9144097,
+    "timestamp": "2025-06-14 10:47:06"
+  },
+  {
+    "sector_id": 51,
+    "drone_id": 1,
+    "center_latitude": 22.5294544,
+    "center_longitude": 75.9146304,
+    "timestamp": "2025-06-14 10:47:16"
+  },
+  {
+    "sector_id": 52,
+    "drone_id": 1,
+    "center_latitude": 22.5292306,
+    "center_longitude": 75.9146546,
+    "timestamp": "2025-06-14 10:47:23"
+  },
+  {
+    "sector_id": 53,
+    "drone_id": 1,
+    "center_latitude": 22.5290055,
+    "center_longitude": 75.914653,
+    "timestamp": "2025-06-14 10:47:28"
+  },
+  {
+    "sector_id": 54,
+    "drone_id": 1,
+    "center_latitude": 22.5287796,
+    "center_longitude": 75.9146535,
+    "timestamp": "2025-06-14 10:47:33"
+  },
+  {
+    "sector_id": 55,
+    "drone_id": 1,
+    "center_latitude": 22.5285545,
+    "center_longitude": 75.9146534,
+    "timestamp": "2025-06-14 10:47:38"
+  },
+  {
+    "sector_id": 56,
+    "drone_id": 1,
+    "center_latitude": 22.5283295,
+    "center_longitude": 75.9146534,
+    "timestamp": "2025-06-14 10:47:43"
+  },
+  {
+    "sector_id": 57,
+    "drone_id": 1,
+    "center_latitude": 22.5281045,
+    "center_longitude": 75.9146532,
+    "timestamp": "2025-06-14 10:47:48"
+  },
+  {
+    "sector_id": 58,
+    "drone_id": 1,
+    "center_latitude": 22.5278794,
+    "center_longitude": 75.9146549,
+    "timestamp": "2025-06-14 10:47:54"
+  },
+  {
+    "sector_id": 59,
+    "drone_id": 1,
+    "center_latitude": 22.5276846,
+    "center_longitude": 75.9147686,
+    "timestamp": "2025-06-14 10:47:59"
+  },
+  {
+    "sector_id": 60,
+    "drone_id": 1,
+    "center_latitude": 22.5274895,
+    "center_longitude": 75.9148812,
+    "timestamp": "2025-06-14 10:48:05"
+  },
+  {
+    "sector_id": 61,
+    "drone_id": 1,
+    "center_latitude": 22.5277141,
+    "center_longitude": 75.9148982,
+    "timestamp": "2025-06-14 10:48:13"
+  },
+  {
+    "sector_id": 62,
+    "drone_id": 1,
+    "center_latitude": 22.5279398,
+    "center_longitude": 75.9148965,
+    "timestamp": "2025-06-14 10:48:18"
+  },
+  {
+    "sector_id": 63,
+    "drone_id": 1,
+    "center_latitude": 22.5281648,
+    "center_longitude": 75.9148961,
+    "timestamp": "2025-06-14 10:48:23"
+  },
+  {
+    "sector_id": 64,
+    "drone_id": 1,
+    "center_latitude": 22.5283903,
+    "center_longitude": 75.9148963,
+    "timestamp": "2025-06-14 10:48:28"
+  },
+  {
+    "sector_id": 65,
+    "drone_id": 1,
+    "center_latitude": 22.5286153,
+    "center_longitude": 75.9148961,
+    "timestamp": "2025-06-14 10:48:33"
+  },
+  {
+    "sector_id": 66,
+    "drone_id": 1,
+    "center_latitude": 22.528841,
+    "center_longitude": 75.9148964,
+    "timestamp": "2025-06-14 10:48:38"
+  },
+  {
+    "sector_id": 67,
+    "drone_id": 1,
+    "center_latitude": 22.5290662,
+    "center_longitude": 75.9148961,
+    "timestamp": "2025-06-14 10:48:43"
+  },
+  {
+    "sector_id": 68,
+    "drone_id": 1,
+    "center_latitude": 22.5292912,
+    "center_longitude": 75.9148966,
+    "timestamp": "2025-06-14 10:48:48"
+  },
+  {
+    "sector_id": 69,
+    "drone_id": 1,
+    "center_latitude": 22.5292928,
+    "center_longitude": 75.9151218,
+    "timestamp": "2025-06-14 10:48:59"
+  },
+  {
+    "sector_id": 70,
+    "drone_id": 1,
+    "center_latitude": 22.5290682,
+    "center_longitude": 75.9151415,
+    "timestamp": "2025-06-14 10:49:05"
+  },
+  {
+    "sector_id": 71,
+    "drone_id": 1,
+    "center_latitude": 22.528843,
+    "center_longitude": 75.9151397,
+    "timestamp": "2025-06-14 10:49:11"
+  },
+  {
+    "sector_id": 72,
+    "drone_id": 1,
+    "center_latitude": 22.5286176,
+    "center_longitude": 75.9151391,
+    "timestamp": "2025-06-14 10:49:16"
+  },
+  {
+    "sector_id": 73,
+    "drone_id": 1,
+    "center_latitude": 22.5283922,
+    "center_longitude": 75.915139,
+    "timestamp": "2025-06-14 10:49:21"
+  },
+  {
+    "sector_id": 74,
+    "drone_id": 1,
+    "center_latitude": 22.528167,
+    "center_longitude": 75.9151401,
+    "timestamp": "2025-06-14 10:49:26"
+  },
+  {
+    "sector_id": 75,
+    "drone_id": 1,
+    "center_latitude": 22.5279411,
+    "center_longitude": 75.9151406,
+    "timestamp": "2025-06-14 10:49:31"
+  },
+  {
+    "sector_id": 76,
+    "drone_id": 1,
+    "center_latitude": 22.5277155,
+    "center_longitude": 75.9151394,
+    "timestamp": "2025-06-14 10:49:36"
+  },
+  {
+    "sector_id": 77,
+    "drone_id": 1,
+    "center_latitude": 22.5274903,
+    "center_longitude": 75.9151389,
+    "timestamp": "2025-06-14 10:49:41"
+  },
+  {
+    "sector_id": 78,
+    "drone_id": 1,
+    "center_latitude": 22.527265,
+    "center_longitude": 75.9151394,
+    "timestamp": "2025-06-14 10:49:46"
+  },
+  {
+    "sector_id": 79,
+    "drone_id": 1,
+    "center_latitude": 22.5270403,
+    "center_longitude": 75.9151545,
+    "timestamp": "2025-06-14 10:49:52"
+  },
+  {
+    "sector_id": 80,
+    "drone_id": 1,
+    "center_latitude": 22.5268516,
+    "center_longitude": 75.9152771,
+    "timestamp": "2025-06-14 10:49:57"
+  },
+  {
+    "sector_id": 81,
+    "drone_id": 1,
+    "center_latitude": 22.52705,
+    "center_longitude": 75.9153843,
+    "timestamp": "2025-06-14 10:50:12"
+  },
+  {
+    "sector_id": 82,
+    "drone_id": 1,
+    "center_latitude": 22.5272752,
+    "center_longitude": 75.9153834,
+    "timestamp": "2025-06-14 10:50:17"
+  },
+  {
+    "sector_id": 83,
+    "drone_id": 1,
+    "center_latitude": 22.5275005,
+    "center_longitude": 75.9153829,
+    "timestamp": "2025-06-14 10:50:22"
+  },
+  {
+    "sector_id": 84,
+    "drone_id": 1,
+    "center_latitude": 22.5277259,
+    "center_longitude": 75.9153834,
+    "timestamp": "2025-06-14 10:50:27"
+  },
+  {
+    "sector_id": 85,
+    "drone_id": 1,
+    "center_latitude": 22.5279516,
+    "center_longitude": 75.9153835,
+    "timestamp": "2025-06-14 10:50:32"
+  },
+  {
+    "sector_id": 86,
+    "drone_id": 1,
+    "center_latitude": 22.5281771,
+    "center_longitude": 75.9153828,
+    "timestamp": "2025-06-14 10:50:37"
+  },
+  {
+    "sector_id": 87,
+    "drone_id": 1,
+    "center_latitude": 22.5284027,
+    "center_longitude": 75.9153826,
+    "timestamp": "2025-06-14 10:50:42"
+  },
+  {
+    "sector_id": 88,
+    "drone_id": 1,
+    "center_latitude": 22.5286277,
+    "center_longitude": 75.9153829,
+    "timestamp": "2025-06-14 10:50:47"
+  },
+  {
+    "sector_id": 89,
+    "drone_id": 1,
+    "center_latitude": 22.5288533,
+    "center_longitude": 75.9153831,
+    "timestamp": "2025-06-14 10:50:52"
+  },
+  {
+    "sector_id": 90,
+    "drone_id": 1,
+    "center_latitude": 22.5290783,
+    "center_longitude": 75.9153834,
+    "timestamp": "2025-06-14 10:50:57"
+  },
+  {
+    "sector_id": 91,
+    "drone_id": 1,
+    "center_latitude": 22.5291168,
+    "center_longitude": 75.9156052,
+    "timestamp": "2025-06-14 10:51:08"
+  },
+  {
+    "sector_id": 92,
+    "drone_id": 1,
+    "center_latitude": 22.528893,
+    "center_longitude": 75.9156286,
+    "timestamp": "2025-06-14 10:51:15"
+  },
+  {
+    "sector_id": 93,
+    "drone_id": 1,
+    "center_latitude": 22.5286676,
+    "center_longitude": 75.9156273,
+    "timestamp": "2025-06-14 10:51:20"
+  },
+  {
+    "sector_id": 94,
+    "drone_id": 1,
+    "center_latitude": 22.5284422,
+    "center_longitude": 75.9156264,
+    "timestamp": "2025-06-14 10:51:25"
+  },
+  {
+    "sector_id": 95,
+    "drone_id": 1,
+    "center_latitude": 22.5282162,
+    "center_longitude": 75.9156262,
+    "timestamp": "2025-06-14 10:51:30"
+  },
+  {
+    "sector_id": 96,
+    "drone_id": 1,
+    "center_latitude": 22.5279906,
+    "center_longitude": 75.9156269,
+    "timestamp": "2025-06-14 10:51:35"
+  },
+  {
+    "sector_id": 97,
+    "drone_id": 1,
+    "center_latitude": 22.5277655,
+    "center_longitude": 75.9156262,
+    "timestamp": "2025-06-14 10:51:40"
+  },
+  {
+    "sector_id": 98,
+    "drone_id": 1,
+    "center_latitude": 22.5275404,
+    "center_longitude": 75.9156261,
+    "timestamp": "2025-06-14 10:51:45"
+  },
+  {
+    "sector_id": 99,
+    "drone_id": 1,
+    "center_latitude": 22.5273151,
+    "center_longitude": 75.9156259,
+    "timestamp": "2025-06-14 10:51:50"
+  },
+  {
+    "sector_id": 100,
+    "drone_id": 1,
+    "center_latitude": 22.5270899,
+    "center_longitude": 75.9156267,
+    "timestamp": "2025-06-14 10:51:55"
+  },
+  {
+    "sector_id": 101,
+    "drone_id": 1,
+    "center_latitude": 22.5268643,
+    "center_longitude": 75.9156257,
+    "timestamp": "2025-06-14 10:52:00"
+  },
+  {
+    "sector_id": 102,
+    "drone_id": 1,
+    "center_latitude": 22.5266387,
+    "center_longitude": 75.9156265,
+    "timestamp": "2025-06-14 10:52:05"
+  },
+  {
+    "sector_id": 103,
+    "drone_id": 1,
+    "center_latitude": 22.5264134,
+    "center_longitude": 75.9156262,
+    "timestamp": "2025-06-14 10:52:10"
+  },
+  {
+    "sector_id": 104,
+    "drone_id": 1,
+    "center_latitude": 22.5261918,
+    "center_longitude": 75.9156668,
+    "timestamp": "2025-06-14 10:52:16"
+  },
+  {
+    "sector_id": 105,
+    "drone_id": 1,
+    "center_latitude": 22.5259968,
+    "center_longitude": 75.9157793,
+    "timestamp": "2025-06-14 10:52:21"
+  },
+  {
+    "sector_id": 106,
+    "drone_id": 1,
+    "center_latitude": 22.5262032,
+    "center_longitude": 75.9158708,
+    "timestamp": "2025-06-14 10:52:36"
+  },
+  {
+    "sector_id": 107,
+    "drone_id": 1,
+    "center_latitude": 22.5264282,
+    "center_longitude": 75.9158701,
+    "timestamp": "2025-06-14 10:52:41"
+  },
+  {
+    "sector_id": 108,
+    "drone_id": 1,
+    "center_latitude": 22.5266542,
+    "center_longitude": 75.9158699,
+    "timestamp": "2025-06-14 10:52:46"
+  },
+  {
+    "sector_id": 109,
+    "drone_id": 1,
+    "center_latitude": 22.5268794,
+    "center_longitude": 75.9158694,
+    "timestamp": "2025-06-14 10:52:51"
+  },
+  {
+    "sector_id": 110,
+    "drone_id": 1,
+    "center_latitude": 22.5271046,
+    "center_longitude": 75.9158694,
+    "timestamp": "2025-06-14 10:52:56"
+  },
+  {
+    "sector_id": 111,
+    "drone_id": 1,
+    "center_latitude": 22.5273302,
+    "center_longitude": 75.9158695,
+    "timestamp": "2025-06-14 10:53:01"
+  },
+  {
+    "sector_id": 112,
+    "drone_id": 1,
+    "center_latitude": 22.5275557,
+    "center_longitude": 75.9158697,
+    "timestamp": "2025-06-14 10:53:06"
+  },
+  {
+    "sector_id": 113,
+    "drone_id": 1,
+    "center_latitude": 22.5277807,
+    "center_longitude": 75.9158698,
+    "timestamp": "2025-06-14 10:53:11"
+  },
+  {
+    "sector_id": 114,
+    "drone_id": 1,
+    "center_latitude": 22.5280057,
+    "center_longitude": 75.9158697,
+    "timestamp": "2025-06-14 10:53:16"
+  },
+  {
+    "sector_id": 115,
+    "drone_id": 1,
+    "center_latitude": 22.5282311,
+    "center_longitude": 75.9158698,
+    "timestamp": "2025-06-14 10:53:21"
+  },
+  {
+    "sector_id": 116,
+    "drone_id": 1,
+    "center_latitude": 22.5284569,
+    "center_longitude": 75.9158696,
+    "timestamp": "2025-06-14 10:53:27"
+  },
+  {
+    "sector_id": 117,
+    "drone_id": 1,
+    "center_latitude": 22.5286819,
+    "center_longitude": 75.91587,
+    "timestamp": "2025-06-14 10:53:32"
+  },
+  {
+    "sector_id": 118,
+    "drone_id": 1,
+    "center_latitude": 22.5289072,
+    "center_longitude": 75.9158697,
+    "timestamp": "2025-06-14 10:53:37"
+  },
+  {
+    "sector_id": 119,
+    "drone_id": 1,
+    "center_latitude": 22.5289402,
+    "center_longitude": 75.9160923,
+    "timestamp": "2025-06-14 10:53:47"
+  },
+  {
+    "sector_id": 120,
+    "drone_id": 1,
+    "center_latitude": 22.5287159,
+    "center_longitude": 75.9161153,
+    "timestamp": "2025-06-14 10:53:54"
+  },
+  {
+    "sector_id": 121,
+    "drone_id": 1,
+    "center_latitude": 22.5284909,
+    "center_longitude": 75.916114,
+    "timestamp": "2025-06-14 10:53:59"
+  },
+  {
+    "sector_id": 122,
+    "drone_id": 1,
+    "center_latitude": 22.5282651,
+    "center_longitude": 75.9161138,
+    "timestamp": "2025-06-14 10:54:05"
+  },
+  {
+    "sector_id": 123,
+    "drone_id": 1,
+    "center_latitude": 22.5280399,
+    "center_longitude": 75.9161132,
+    "timestamp": "2025-06-14 10:54:10"
+  },
+  {
+    "sector_id": 124,
+    "drone_id": 1,
+    "center_latitude": 22.5278149,
+    "center_longitude": 75.9161125,
+    "timestamp": "2025-06-14 10:54:15"
+  },
+  {
+    "sector_id": 125,
+    "drone_id": 1,
+    "center_latitude": 22.5275896,
+    "center_longitude": 75.9161126,
+    "timestamp": "2025-06-14 10:54:20"
+  },
+  {
+    "sector_id": 126,
+    "drone_id": 1,
+    "center_latitude": 22.5273638,
+    "center_longitude": 75.9161126,
+    "timestamp": "2025-06-14 10:54:25"
+  },
+  {
+    "sector_id": 127,
+    "drone_id": 1,
+    "center_latitude": 22.5271383,
+    "center_longitude": 75.9161135,
+    "timestamp": "2025-06-14 10:54:30"
+  },
+  {
+    "sector_id": 128,
+    "drone_id": 1,
+    "center_latitude": 22.526913,
+    "center_longitude": 75.9161131,
+    "timestamp": "2025-06-14 10:54:35"
+  },
+  {
+    "sector_id": 129,
+    "drone_id": 1,
+    "center_latitude": 22.5266872,
+    "center_longitude": 75.9161131,
+    "timestamp": "2025-06-14 10:54:40"
+  },
+  {
+    "sector_id": 130,
+    "drone_id": 1,
+    "center_latitude": 22.5264619,
+    "center_longitude": 75.9161129,
+    "timestamp": "2025-06-14 10:54:45"
+  },
+  {
+    "sector_id": 131,
+    "drone_id": 1,
+    "center_latitude": 22.5262367,
+    "center_longitude": 75.9161123,
+    "timestamp": "2025-06-14 10:54:50"
+  },
+  {
+    "sector_id": 132,
+    "drone_id": 1,
+    "center_latitude": 22.5260112,
+    "center_longitude": 75.9161128,
+    "timestamp": "2025-06-14 10:54:55"
+  },
+  {
+    "sector_id": 133,
+    "drone_id": 1,
+    "center_latitude": 22.5257854,
+    "center_longitude": 75.9161131,
+    "timestamp": "2025-06-14 10:55:00"
+  },
+  {
+    "sector_id": 134,
+    "drone_id": 1,
+    "center_latitude": 22.52556,
+    "center_longitude": 75.9161128,
+    "timestamp": "2025-06-14 10:55:05"
+  },
+  {
+    "sector_id": 135,
+    "drone_id": 1,
+    "center_latitude": 22.5253385,
+    "center_longitude": 75.9161538,
+    "timestamp": "2025-06-14 10:55:11"
+  },
+  {
+    "sector_id": 136,
+    "drone_id": 1,
+    "center_latitude": 22.5251434,
+    "center_longitude": 75.9162671,
+    "timestamp": "2025-06-14 10:55:16"
+  },
+  {
+    "sector_id": 137,
+    "drone_id": 1,
+    "center_latitude": 22.52535,
+    "center_longitude": 75.9163573,
+    "timestamp": "2025-06-14 10:55:31"
+  },
+  {
+    "sector_id": 138,
+    "drone_id": 1,
+    "center_latitude": 22.5255755,
+    "center_longitude": 75.9163573,
+    "timestamp": "2025-06-14 10:55:36"
+  },
+  {
+    "sector_id": 139,
+    "drone_id": 1,
+    "center_latitude": 22.5258015,
+    "center_longitude": 75.916356,
+    "timestamp": "2025-06-14 10:55:41"
+  },
+  {
+    "sector_id": 140,
+    "drone_id": 1,
+    "center_latitude": 22.5260272,
+    "center_longitude": 75.9163561,
+    "timestamp": "2025-06-14 10:55:46"
+  },
+  {
+    "sector_id": 141,
+    "drone_id": 1,
+    "center_latitude": 22.5262524,
+    "center_longitude": 75.9163563,
+    "timestamp": "2025-06-14 10:55:51"
+  },
+  {
+    "sector_id": 142,
+    "drone_id": 1,
+    "center_latitude": 22.5264775,
+    "center_longitude": 75.916356,
+    "timestamp": "2025-06-14 10:55:56"
+  },
+  {
+    "sector_id": 143,
+    "drone_id": 1,
+    "center_latitude": 22.5267027,
+    "center_longitude": 75.9163562,
+    "timestamp": "2025-06-14 10:56:01"
+  },
+  {
+    "sector_id": 144,
+    "drone_id": 1,
+    "center_latitude": 22.5269285,
+    "center_longitude": 75.916357,
+    "timestamp": "2025-06-14 10:56:06"
+  },
+  {
+    "sector_id": 145,
+    "drone_id": 1,
+    "center_latitude": 22.5271543,
+    "center_longitude": 75.916357,
+    "timestamp": "2025-06-14 10:56:11"
+  },
+  {
+    "sector_id": 146,
+    "drone_id": 1,
+    "center_latitude": 22.5273799,
+    "center_longitude": 75.9163567,
+    "timestamp": "2025-06-14 10:56:16"
+  },
+  {
+    "sector_id": 147,
+    "drone_id": 1,
+    "center_latitude": 22.5276056,
+    "center_longitude": 75.9163566,
+    "timestamp": "2025-06-14 10:56:21"
+  },
+  {
+    "sector_id": 148,
+    "drone_id": 1,
+    "center_latitude": 22.527831,
+    "center_longitude": 75.9163563,
+    "timestamp": "2025-06-14 10:56:26"
+  },
+  {
+    "sector_id": 149,
+    "drone_id": 1,
+    "center_latitude": 22.5280561,
+    "center_longitude": 75.9163567,
+    "timestamp": "2025-06-14 10:56:31"
+  },
+  {
+    "sector_id": 150,
+    "drone_id": 1,
+    "center_latitude": 22.5282813,
+    "center_longitude": 75.9163568,
+    "timestamp": "2025-06-14 10:56:36"
+  },
+  {
+    "sector_id": 151,
+    "drone_id": 1,
+    "center_latitude": 22.5285073,
+    "center_longitude": 75.916357,
+    "timestamp": "2025-06-14 10:56:41"
+  },
+  {
+    "sector_id": 152,
+    "drone_id": 1,
+    "center_latitude": 22.5287324,
+    "center_longitude": 75.9163564,
+    "timestamp": "2025-06-14 10:56:46"
+  },
+  {
+    "sector_id": 153,
+    "drone_id": 1,
+    "center_latitude": 22.5287675,
+    "center_longitude": 75.9165786,
+    "timestamp": "2025-06-14 10:56:57"
+  },
+  {
+    "sector_id": 154,
+    "drone_id": 1,
+    "center_latitude": 22.5285429,
+    "center_longitude": 75.9166023,
+    "timestamp": "2025-06-14 10:57:04"
+  },
+  {
+    "sector_id": 155,
+    "drone_id": 1,
+    "center_latitude": 22.5283173,
+    "center_longitude": 75.9166011,
+    "timestamp": "2025-06-14 10:57:09"
+  },
+  {
+    "sector_id": 156,
+    "drone_id": 1,
+    "center_latitude": 22.5280914,
+    "center_longitude": 75.9166004,
+    "timestamp": "2025-06-14 10:57:14"
+  },
+  {
+    "sector_id": 157,
+    "drone_id": 1,
+    "center_latitude": 22.5278659,
+    "center_longitude": 75.9166003,
+    "timestamp": "2025-06-14 10:57:19"
+  },
+  {
+    "sector_id": 158,
+    "drone_id": 1,
+    "center_latitude": 22.5276406,
+    "center_longitude": 75.9166009,
+    "timestamp": "2025-06-14 10:57:24"
+  },
+  {
+    "sector_id": 159,
+    "drone_id": 1,
+    "center_latitude": 22.5274148,
+    "center_longitude": 75.9165999,
+    "timestamp": "2025-06-14 10:57:29"
+  },
+  {
+    "sector_id": 160,
+    "drone_id": 1,
+    "center_latitude": 22.5271896,
+    "center_longitude": 75.9165999,
+    "timestamp": "2025-06-14 10:57:34"
+  },
+  {
+    "sector_id": 161,
+    "drone_id": 1,
+    "center_latitude": 22.5269641,
+    "center_longitude": 75.9166002,
+    "timestamp": "2025-06-14 10:57:39"
+  },
+  {
+    "sector_id": 162,
+    "drone_id": 1,
+    "center_latitude": 22.5267382,
+    "center_longitude": 75.9166007,
+    "timestamp": "2025-06-14 10:57:44"
+  },
+  {
+    "sector_id": 163,
+    "drone_id": 1,
+    "center_latitude": 22.5265132,
+    "center_longitude": 75.9166004,
+    "timestamp": "2025-06-14 10:57:49"
+  },
+  {
+    "sector_id": 164,
+    "drone_id": 1,
+    "center_latitude": 22.5262881,
+    "center_longitude": 75.9165995,
+    "timestamp": "2025-06-14 10:57:54"
+  },
+  {
+    "sector_id": 165,
+    "drone_id": 1,
+    "center_latitude": 22.5260628,
+    "center_longitude": 75.9165993,
+    "timestamp": "2025-06-14 10:57:59"
+  },
+  {
+    "sector_id": 166,
+    "drone_id": 1,
+    "center_latitude": 22.5258376,
+    "center_longitude": 75.9165997,
+    "timestamp": "2025-06-14 10:58:04"
+  },
+  {
+    "sector_id": 167,
+    "drone_id": 1,
+    "center_latitude": 22.5256121,
+    "center_longitude": 75.9165998,
+    "timestamp": "2025-06-14 10:58:09"
+  },
+  {
+    "sector_id": 168,
+    "drone_id": 1,
+    "center_latitude": 22.5253866,
+    "center_longitude": 75.9166001,
+    "timestamp": "2025-06-14 10:58:14"
+  },
+  {
+    "sector_id": 169,
+    "drone_id": 1,
+    "center_latitude": 22.5251606,
+    "center_longitude": 75.9166,
+    "timestamp": "2025-06-14 10:58:19"
+  },
+  {
+    "sector_id": 170,
+    "drone_id": 1,
+    "center_latitude": 22.5249347,
+    "center_longitude": 75.9165996,
+    "timestamp": "2025-06-14 10:58:24"
+  },
+  {
+    "sector_id": 171,
+    "drone_id": 1,
+    "center_latitude": 22.5247096,
+    "center_longitude": 75.9166001,
+    "timestamp": "2025-06-14 10:58:29"
+  },
+  {
+    "sector_id": 172,
+    "drone_id": 1,
+    "center_latitude": 22.5244877,
+    "center_longitude": 75.9166382,
+    "timestamp": "2025-06-14 10:58:35"
+  },
+  {
+    "sector_id": 173,
+    "drone_id": 1,
+    "center_latitude": 22.5242905,
+    "center_longitude": 75.9167474,
+    "timestamp": "2025-06-14 10:58:40"
+  },
+  {
+    "sector_id": 174,
+    "drone_id": 1,
+    "center_latitude": 22.5244935,
+    "center_longitude": 75.9168446,
+    "timestamp": "2025-06-14 10:58:56"
+  },
+  {
+    "sector_id": 175,
+    "drone_id": 1,
+    "center_latitude": 22.5247195,
+    "center_longitude": 75.9168439,
+    "timestamp": "2025-06-14 10:59:01"
+  },
+  {
+    "sector_id": 176,
+    "drone_id": 1,
+    "center_latitude": 22.5249453,
+    "center_longitude": 75.9168434,
+    "timestamp": "2025-06-14 10:59:06"
+  },
+  {
+    "sector_id": 177,
+    "drone_id": 1,
+    "center_latitude": 22.5251712,
+    "center_longitude": 75.916843,
+    "timestamp": "2025-06-14 10:59:11"
+  },
+  {
+    "sector_id": 178,
+    "drone_id": 1,
+    "center_latitude": 22.5253966,
+    "center_longitude": 75.9168434,
+    "timestamp": "2025-06-14 10:59:16"
+  },
+  {
+    "sector_id": 179,
+    "drone_id": 1,
+    "center_latitude": 22.5256222,
+    "center_longitude": 75.916844,
+    "timestamp": "2025-06-14 10:59:21"
+  },
+  {
+    "sector_id": 180,
+    "drone_id": 1,
+    "center_latitude": 22.5258476,
+    "center_longitude": 75.9168431,
+    "timestamp": "2025-06-14 10:59:26"
+  },
+  {
+    "sector_id": 181,
+    "drone_id": 1,
+    "center_latitude": 22.5260727,
+    "center_longitude": 75.9168431,
+    "timestamp": "2025-06-14 10:59:31"
+  },
+  {
+    "sector_id": 182,
+    "drone_id": 1,
+    "center_latitude": 22.5262984,
+    "center_longitude": 75.9168434,
+    "timestamp": "2025-06-14 10:59:36"
+  },
+  {
+    "sector_id": 183,
+    "drone_id": 1,
+    "center_latitude": 22.5265243,
+    "center_longitude": 75.9168429,
+    "timestamp": "2025-06-14 10:59:41"
+  },
+  {
+    "sector_id": 184,
+    "drone_id": 1,
+    "center_latitude": 22.5267495,
+    "center_longitude": 75.9168433,
+    "timestamp": "2025-06-14 10:59:46"
+  },
+  {
+    "sector_id": 185,
+    "drone_id": 1,
+    "center_latitude": 22.5269745,
+    "center_longitude": 75.916843,
+    "timestamp": "2025-06-14 10:59:51"
+  },
+  {
+    "sector_id": 186,
+    "drone_id": 1,
+    "center_latitude": 22.5272005,
+    "center_longitude": 75.916843,
+    "timestamp": "2025-06-14 10:59:56"
+  },
+  {
+    "sector_id": 187,
+    "drone_id": 1,
+    "center_latitude": 22.5274265,
+    "center_longitude": 75.9168437,
+    "timestamp": "2025-06-14 11:00:01"
+  },
+  {
+    "sector_id": 188,
+    "drone_id": 1,
+    "center_latitude": 22.5276517,
+    "center_longitude": 75.9168438,
+    "timestamp": "2025-06-14 11:00:06"
+  },
+  {
+    "sector_id": 189,
+    "drone_id": 1,
+    "center_latitude": 22.5278774,
+    "center_longitude": 75.9168436,
+    "timestamp": "2025-06-14 11:00:11"
+  },
+  {
+    "sector_id": 190,
+    "drone_id": 1,
+    "center_latitude": 22.528103,
+    "center_longitude": 75.916843,
+    "timestamp": "2025-06-14 11:00:16"
+  },
+  {
+    "sector_id": 191,
+    "drone_id": 1,
+    "center_latitude": 22.5283284,
+    "center_longitude": 75.9168429,
+    "timestamp": "2025-06-14 11:00:21"
+  },
+  {
+    "sector_id": 192,
+    "drone_id": 1,
+    "center_latitude": 22.5285538,
+    "center_longitude": 75.9168433,
+    "timestamp": "2025-06-14 11:00:26"
+  },
+  {
+    "sector_id": 193,
+    "drone_id": 1,
+    "center_latitude": 22.5285974,
+    "center_longitude": 75.9170643,
+    "timestamp": "2025-06-14 11:00:37"
+  },
+  {
+    "sector_id": 194,
+    "drone_id": 1,
+    "center_latitude": 22.5283738,
+    "center_longitude": 75.9170893,
+    "timestamp": "2025-06-14 11:00:44"
+  },
+  {
+    "sector_id": 195,
+    "drone_id": 1,
+    "center_latitude": 22.5281483,
+    "center_longitude": 75.9170876,
+    "timestamp": "2025-06-14 11:00:49"
+  },
+  {
+    "sector_id": 196,
+    "drone_id": 1,
+    "center_latitude": 22.5279233,
+    "center_longitude": 75.9170863,
+    "timestamp": "2025-06-14 11:00:54"
+  },
+  {
+    "sector_id": 197,
+    "drone_id": 1,
+    "center_latitude": 22.5276981,
+    "center_longitude": 75.9170866,
+    "timestamp": "2025-06-14 11:00:59"
+  },
+  {
+    "sector_id": 198,
+    "drone_id": 1,
+    "center_latitude": 22.5274726,
+    "center_longitude": 75.9170869,
+    "timestamp": "2025-06-14 11:01:04"
+  },
+  {
+    "sector_id": 199,
+    "drone_id": 1,
+    "center_latitude": 22.527247,
+    "center_longitude": 75.9170871,
+    "timestamp": "2025-06-14 11:01:09"
+  },
+  {
+    "sector_id": 200,
+    "drone_id": 1,
+    "center_latitude": 22.5270219,
+    "center_longitude": 75.9170871,
+    "timestamp": "2025-06-14 11:01:14"
+  },
+  {
+    "sector_id": 201,
+    "drone_id": 1,
+    "center_latitude": 22.5267966,
+    "center_longitude": 75.9170872,
+    "timestamp": "2025-06-14 11:01:19"
+  },
+  {
+    "sector_id": 202,
+    "drone_id": 1,
+    "center_latitude": 22.5265715,
+    "center_longitude": 75.9170865,
+    "timestamp": "2025-06-14 11:01:24"
+  },
+  {
+    "sector_id": 203,
+    "drone_id": 1,
+    "center_latitude": 22.5263459,
+    "center_longitude": 75.9170862,
+    "timestamp": "2025-06-14 11:01:29"
+  },
+  {
+    "sector_id": 204,
+    "drone_id": 1,
+    "center_latitude": 22.5261207,
+    "center_longitude": 75.9170863,
+    "timestamp": "2025-06-14 11:01:34"
+  },
+  {
+    "sector_id": 205,
+    "drone_id": 1,
+    "center_latitude": 22.5258957,
+    "center_longitude": 75.9170868,
+    "timestamp": "2025-06-14 11:01:39"
+  },
+  {
+    "sector_id": 206,
+    "drone_id": 1,
+    "center_latitude": 22.5256699,
+    "center_longitude": 75.9170863,
+    "timestamp": "2025-06-14 11:01:44"
+  },
+  {
+    "sector_id": 207,
+    "drone_id": 1,
+    "center_latitude": 22.5254445,
+    "center_longitude": 75.9170862,
+    "timestamp": "2025-06-14 11:01:49"
+  },
+  {
+    "sector_id": 208,
+    "drone_id": 1,
+    "center_latitude": 22.5252194,
+    "center_longitude": 75.9170864,
+    "timestamp": "2025-06-14 11:01:54"
+  },
+  {
+    "sector_id": 209,
+    "drone_id": 1,
+    "center_latitude": 22.5249943,
+    "center_longitude": 75.9170873,
+    "timestamp": "2025-06-14 11:01:59"
+  },
+  {
+    "sector_id": 210,
+    "drone_id": 1,
+    "center_latitude": 22.5247685,
+    "center_longitude": 75.9170866,
+    "timestamp": "2025-06-14 11:02:04"
+  },
+  {
+    "sector_id": 211,
+    "drone_id": 1,
+    "center_latitude": 22.5245429,
+    "center_longitude": 75.9170862,
+    "timestamp": "2025-06-14 11:02:09"
+  },
+  {
+    "sector_id": 212,
+    "drone_id": 1,
+    "center_latitude": 22.5243174,
+    "center_longitude": 75.917087,
+    "timestamp": "2025-06-14 11:02:14"
+  },
+  {
+    "sector_id": 213,
+    "drone_id": 1,
+    "center_latitude": 22.5240923,
+    "center_longitude": 75.9170873,
+    "timestamp": "2025-06-14 11:02:19"
+  },
+  {
+    "sector_id": 214,
+    "drone_id": 1,
+    "center_latitude": 22.5238672,
+    "center_longitude": 75.9170877,
+    "timestamp": "2025-06-14 11:02:24"
+  },
+  {
+    "sector_id": 215,
+    "drone_id": 1,
+    "center_latitude": 22.5236419,
+    "center_longitude": 75.9170941,
+    "timestamp": "2025-06-14 11:02:30"
+  },
+  {
+    "sector_id": 216,
+    "drone_id": 1,
+    "center_latitude": 22.5234396,
+    "center_longitude": 75.9171937,
+    "timestamp": "2025-06-14 11:02:35"
+  },
+  {
+    "sector_id": 217,
+    "drone_id": 1,
+    "center_latitude": 22.5232365,
+    "center_longitude": 75.9172913,
+    "timestamp": "2025-06-14 11:02:40"
+  },
+  {
+    "sector_id": 218,
+    "drone_id": 1,
+    "center_latitude": 22.5234589,
+    "center_longitude": 75.917331,
+    "timestamp": "2025-06-14 11:02:52"
+  },
+  {
+    "sector_id": 219,
+    "drone_id": 1,
+    "center_latitude": 22.5236844,
+    "center_longitude": 75.9173305,
+    "timestamp": "2025-06-14 11:02:57"
+  },
+  {
+    "sector_id": 220,
+    "drone_id": 1,
+    "center_latitude": 22.5239095,
+    "center_longitude": 75.9173308,
+    "timestamp": "2025-06-14 11:03:02"
+  },
+  {
+    "sector_id": 221,
+    "drone_id": 1,
+    "center_latitude": 22.524135,
+    "center_longitude": 75.9173303,
+    "timestamp": "2025-06-14 11:03:07"
+  },
+  {
+    "sector_id": 222,
+    "drone_id": 1,
+    "center_latitude": 22.5243606,
+    "center_longitude": 75.91733,
+    "timestamp": "2025-06-14 11:03:12"
+  },
+  {
+    "sector_id": 223,
+    "drone_id": 1,
+    "center_latitude": 22.5245863,
+    "center_longitude": 75.9173304,
+    "timestamp": "2025-06-14 11:03:17"
+  },
+  {
+    "sector_id": 224,
+    "drone_id": 1,
+    "center_latitude": 22.5248118,
+    "center_longitude": 75.9173302,
+    "timestamp": "2025-06-14 11:03:22"
+  },
+  {
+    "sector_id": 225,
+    "drone_id": 1,
+    "center_latitude": 22.5250373,
+    "center_longitude": 75.9173301,
+    "timestamp": "2025-06-14 11:03:27"
+  },
+  {
+    "sector_id": 226,
+    "drone_id": 1,
+    "center_latitude": 22.5252623,
+    "center_longitude": 75.9173301,
+    "timestamp": "2025-06-14 11:03:32"
+  },
+  {
+    "sector_id": 227,
+    "drone_id": 1,
+    "center_latitude": 22.5254873,
+    "center_longitude": 75.9173294,
+    "timestamp": "2025-06-14 11:03:37"
+  },
+  {
+    "sector_id": 228,
+    "drone_id": 1,
+    "center_latitude": 22.5257127,
+    "center_longitude": 75.9173298,
+    "timestamp": "2025-06-14 11:03:42"
+  },
+  {
+    "sector_id": 229,
+    "drone_id": 1,
+    "center_latitude": 22.5259379,
+    "center_longitude": 75.9173296,
+    "timestamp": "2025-06-14 11:03:47"
+  },
+  {
+    "sector_id": 230,
+    "drone_id": 1,
+    "center_latitude": 22.5261635,
+    "center_longitude": 75.9173298,
+    "timestamp": "2025-06-14 11:03:52"
+  },
+  {
+    "sector_id": 231,
+    "drone_id": 1,
+    "center_latitude": 22.5263886,
+    "center_longitude": 75.9173301,
+    "timestamp": "2025-06-14 11:03:57"
+  },
+  {
+    "sector_id": 232,
+    "drone_id": 1,
+    "center_latitude": 22.5266143,
+    "center_longitude": 75.91733,
+    "timestamp": "2025-06-14 11:04:02"
+  },
+  {
+    "sector_id": 233,
+    "drone_id": 1,
+    "center_latitude": 22.52684,
+    "center_longitude": 75.91733,
+    "timestamp": "2025-06-14 11:04:07"
+  },
+  {
+    "sector_id": 234,
+    "drone_id": 1,
+    "center_latitude": 22.5270656,
+    "center_longitude": 75.9173307,
+    "timestamp": "2025-06-14 11:04:12"
+  },
+  {
+    "sector_id": 235,
+    "drone_id": 1,
+    "center_latitude": 22.5272913,
+    "center_longitude": 75.9173301,
+    "timestamp": "2025-06-14 11:04:17"
+  },
+  {
+    "sector_id": 236,
+    "drone_id": 1,
+    "center_latitude": 22.5275168,
+    "center_longitude": 75.9173308,
+    "timestamp": "2025-06-14 11:04:22"
+  },
+  {
+    "sector_id": 237,
+    "drone_id": 1,
+    "center_latitude": 22.5277422,
+    "center_longitude": 75.9173301,
+    "timestamp": "2025-06-14 11:04:27"
+  },
+  {
+    "sector_id": 238,
+    "drone_id": 1,
+    "center_latitude": 22.527968,
+    "center_longitude": 75.9173302,
+    "timestamp": "2025-06-14 11:04:32"
+  },
+  {
+    "sector_id": 239,
+    "drone_id": 1,
+    "center_latitude": 22.528193,
+    "center_longitude": 75.9173302,
+    "timestamp": "2025-06-14 11:04:37"
+  },
+  {
+    "sector_id": 240,
+    "drone_id": 1,
+    "center_latitude": 22.5284187,
+    "center_longitude": 75.9173302,
+    "timestamp": "2025-06-14 11:04:42"
+  },
+  {
+    "sector_id": 241,
+    "drone_id": 1,
+    "center_latitude": 22.5284242,
+    "center_longitude": 75.9175555,
+    "timestamp": "2025-06-14 11:04:53"
+  },
+  {
+    "sector_id": 242,
+    "drone_id": 1,
+    "center_latitude": 22.5281999,
+    "center_longitude": 75.9175754,
+    "timestamp": "2025-06-14 11:04:59"
+  },
+  {
+    "sector_id": 243,
+    "drone_id": 1,
+    "center_latitude": 22.5279746,
+    "center_longitude": 75.9175741,
+    "timestamp": "2025-06-14 11:05:05"
+  },
+  {
+    "sector_id": 244,
+    "drone_id": 1,
+    "center_latitude": 22.5277493,
+    "center_longitude": 75.9175738,
+    "timestamp": "2025-06-14 11:05:10"
+  },
+  {
+    "sector_id": 245,
+    "drone_id": 1,
+    "center_latitude": 22.5275243,
+    "center_longitude": 75.9175734,
+    "timestamp": "2025-06-14 11:05:15"
+  },
+  {
+    "sector_id": 246,
+    "drone_id": 1,
+    "center_latitude": 22.5272992,
+    "center_longitude": 75.9175746,
+    "timestamp": "2025-06-14 11:05:20"
+  },
+  {
+    "sector_id": 247,
+    "drone_id": 1,
+    "center_latitude": 22.5270739,
+    "center_longitude": 75.9175736,
+    "timestamp": "2025-06-14 11:05:25"
+  },
+  {
+    "sector_id": 248,
+    "drone_id": 1,
+    "center_latitude": 22.5268482,
+    "center_longitude": 75.9175738,
+    "timestamp": "2025-06-14 11:05:30"
+  },
+  {
+    "sector_id": 249,
+    "drone_id": 1,
+    "center_latitude": 22.5266228,
+    "center_longitude": 75.9175733,
+    "timestamp": "2025-06-14 11:05:35"
+  },
+  {
+    "sector_id": 250,
+    "drone_id": 1,
+    "center_latitude": 22.526397,
+    "center_longitude": 75.9175739,
+    "timestamp": "2025-06-14 11:05:40"
+  },
+  {
+    "sector_id": 251,
+    "drone_id": 1,
+    "center_latitude": 22.5261718,
+    "center_longitude": 75.9175736,
+    "timestamp": "2025-06-14 11:05:45"
+  },
+  {
+    "sector_id": 252,
+    "drone_id": 1,
+    "center_latitude": 22.5259467,
+    "center_longitude": 75.9175733,
+    "timestamp": "2025-06-14 11:05:50"
+  },
+  {
+    "sector_id": 253,
+    "drone_id": 1,
+    "center_latitude": 22.5257216,
+    "center_longitude": 75.917573,
+    "timestamp": "2025-06-14 11:05:55"
+  },
+  {
+    "sector_id": 254,
+    "drone_id": 1,
+    "center_latitude": 22.5254966,
+    "center_longitude": 75.9175728,
+    "timestamp": "2025-06-14 11:06:00"
+  },
+  {
+    "sector_id": 255,
+    "drone_id": 1,
+    "center_latitude": 22.5252713,
+    "center_longitude": 75.9175735,
+    "timestamp": "2025-06-14 11:06:05"
+  },
+  {
+    "sector_id": 256,
+    "drone_id": 1,
+    "center_latitude": 22.5250459,
+    "center_longitude": 75.9175737,
+    "timestamp": "2025-06-14 11:06:10"
+  },
+  {
+    "sector_id": 257,
+    "drone_id": 1,
+    "center_latitude": 22.5248203,
+    "center_longitude": 75.917573,
+    "timestamp": "2025-06-14 11:06:15"
+  },
+  {
+    "sector_id": 258,
+    "drone_id": 1,
+    "center_latitude": 22.524595,
+    "center_longitude": 75.9175739,
+    "timestamp": "2025-06-14 11:06:20"
+  },
+  {
+    "sector_id": 259,
+    "drone_id": 1,
+    "center_latitude": 22.5243693,
+    "center_longitude": 75.917574,
+    "timestamp": "2025-06-14 11:06:25"
+  },
+  {
+    "sector_id": 260,
+    "drone_id": 1,
+    "center_latitude": 22.5241443,
+    "center_longitude": 75.9175727,
+    "timestamp": "2025-06-14 11:06:30"
+  },
+  {
+    "sector_id": 261,
+    "drone_id": 1,
+    "center_latitude": 22.5239193,
+    "center_longitude": 75.917572,
+    "timestamp": "2025-06-14 11:06:35"
+  },
+  {
+    "sector_id": 262,
+    "drone_id": 1,
+    "center_latitude": 22.5236938,
+    "center_longitude": 75.9175731,
+    "timestamp": "2025-06-14 11:06:40"
+  },
+  {
+    "sector_id": 263,
+    "drone_id": 1,
+    "center_latitude": 22.5234686,
+    "center_longitude": 75.9175741,
+    "timestamp": "2025-06-14 11:06:45"
+  },
+  {
+    "sector_id": 264,
+    "drone_id": 1,
+    "center_latitude": 22.5232432,
+    "center_longitude": 75.9175735,
+    "timestamp": "2025-06-14 11:06:50"
+  },
+  {
+    "sector_id": 265,
+    "drone_id": 1,
+    "center_latitude": 22.523018,
+    "center_longitude": 75.9175736,
+    "timestamp": "2025-06-14 11:06:55"
+  },
+  {
+    "sector_id": 266,
+    "drone_id": 1,
+    "center_latitude": 22.5227924,
+    "center_longitude": 75.9175744,
+    "timestamp": "2025-06-14 11:07:00"
+  },
+  {
+    "sector_id": 267,
+    "drone_id": 1,
+    "center_latitude": 22.5225666,
+    "center_longitude": 75.9175737,
+    "timestamp": "2025-06-14 11:07:05"
+  },
+  {
+    "sector_id": 268,
+    "drone_id": 1,
+    "center_latitude": 22.5223565,
+    "center_longitude": 75.9176544,
+    "timestamp": "2025-06-14 11:07:10"
+  },
+  {
+    "sector_id": 269,
+    "drone_id": 1,
+    "center_latitude": 22.5221478,
+    "center_longitude": 75.9177398,
+    "timestamp": "2025-06-14 11:07:15"
+  },
+  {
+    "sector_id": 270,
+    "drone_id": 1,
+    "center_latitude": 22.5223588,
+    "center_longitude": 75.9178184,
+    "timestamp": "2025-06-14 11:07:32"
+  },
+  {
+    "sector_id": 271,
+    "drone_id": 1,
+    "center_latitude": 22.5225847,
+    "center_longitude": 75.9178177,
+    "timestamp": "2025-06-14 11:07:37"
+  },
+  {
+    "sector_id": 272,
+    "drone_id": 1,
+    "center_latitude": 22.5228102,
+    "center_longitude": 75.9178166,
+    "timestamp": "2025-06-14 11:07:42"
+  },
+  {
+    "sector_id": 273,
+    "drone_id": 1,
+    "center_latitude": 22.5230362,
+    "center_longitude": 75.9178165,
+    "timestamp": "2025-06-14 11:07:47"
+  },
+  {
+    "sector_id": 274,
+    "drone_id": 1,
+    "center_latitude": 22.5232612,
+    "center_longitude": 75.917816,
+    "timestamp": "2025-06-14 11:07:52"
+  },
+  {
+    "sector_id": 275,
+    "drone_id": 1,
+    "center_latitude": 22.5234868,
+    "center_longitude": 75.9178164,
+    "timestamp": "2025-06-14 11:07:57"
+  },
+  {
+    "sector_id": 276,
+    "drone_id": 1,
+    "center_latitude": 22.5237126,
+    "center_longitude": 75.9178165,
+    "timestamp": "2025-06-14 11:08:02"
+  },
+  {
+    "sector_id": 277,
+    "drone_id": 1,
+    "center_latitude": 22.5239376,
+    "center_longitude": 75.9178169,
+    "timestamp": "2025-06-14 11:08:07"
+  },
+  {
+    "sector_id": 278,
+    "drone_id": 1,
+    "center_latitude": 22.5241632,
+    "center_longitude": 75.9178171,
+    "timestamp": "2025-06-14 11:08:12"
+  },
+  {
+    "sector_id": 279,
+    "drone_id": 1,
+    "center_latitude": 22.5243883,
+    "center_longitude": 75.917817,
+    "timestamp": "2025-06-14 11:08:17"
+  },
+  {
+    "sector_id": 280,
+    "drone_id": 1,
+    "center_latitude": 22.5246134,
+    "center_longitude": 75.9178164,
+    "timestamp": "2025-06-14 11:08:22"
+  },
+  {
+    "sector_id": 281,
+    "drone_id": 1,
+    "center_latitude": 22.5248392,
+    "center_longitude": 75.9178169,
+    "timestamp": "2025-06-14 11:08:27"
+  },
+  {
+    "sector_id": 282,
+    "drone_id": 1,
+    "center_latitude": 22.5250647,
+    "center_longitude": 75.9178173,
+    "timestamp": "2025-06-14 11:08:32"
+  },
+  {
+    "sector_id": 283,
+    "drone_id": 1,
+    "center_latitude": 22.5252903,
+    "center_longitude": 75.9178169,
+    "timestamp": "2025-06-14 11:08:37"
+  },
+  {
+    "sector_id": 284,
+    "drone_id": 1,
+    "center_latitude": 22.5255153,
+    "center_longitude": 75.9178173,
+    "timestamp": "2025-06-14 11:08:42"
+  },
+  {
+    "sector_id": 285,
+    "drone_id": 1,
+    "center_latitude": 22.5257407,
+    "center_longitude": 75.9178164,
+    "timestamp": "2025-06-14 11:08:47"
+  },
+  {
+    "sector_id": 286,
+    "drone_id": 1,
+    "center_latitude": 22.5259659,
+    "center_longitude": 75.9178167,
+    "timestamp": "2025-06-14 11:08:52"
+  },
+  {
+    "sector_id": 287,
+    "drone_id": 1,
+    "center_latitude": 22.5261913,
+    "center_longitude": 75.9178164,
+    "timestamp": "2025-06-14 11:08:57"
+  },
+  {
+    "sector_id": 288,
+    "drone_id": 1,
+    "center_latitude": 22.5264165,
+    "center_longitude": 75.9178172,
+    "timestamp": "2025-06-14 11:09:02"
+  },
+  {
+    "sector_id": 289,
+    "drone_id": 1,
+    "center_latitude": 22.5266422,
+    "center_longitude": 75.9178174,
+    "timestamp": "2025-06-14 11:09:07"
+  },
+  {
+    "sector_id": 290,
+    "drone_id": 1,
+    "center_latitude": 22.5268676,
+    "center_longitude": 75.9178171,
+    "timestamp": "2025-06-14 11:09:12"
+  },
+  {
+    "sector_id": 291,
+    "drone_id": 1,
+    "center_latitude": 22.5270931,
+    "center_longitude": 75.917817,
+    "timestamp": "2025-06-14 11:09:17"
+  },
+  {
+    "sector_id": 292,
+    "drone_id": 1,
+    "center_latitude": 22.5273186,
+    "center_longitude": 75.9178175,
+    "timestamp": "2025-06-14 11:09:22"
+  },
+  {
+    "sector_id": 293,
+    "drone_id": 1,
+    "center_latitude": 22.5275436,
+    "center_longitude": 75.9178172,
+    "timestamp": "2025-06-14 11:09:27"
+  },
+  {
+    "sector_id": 294,
+    "drone_id": 1,
+    "center_latitude": 22.5277687,
+    "center_longitude": 75.9178175,
+    "timestamp": "2025-06-14 11:09:32"
+  },
+  {
+    "sector_id": 295,
+    "drone_id": 1,
+    "center_latitude": 22.5279942,
+    "center_longitude": 75.917817,
+    "timestamp": "2025-06-14 11:09:37"
+  },
+  {
+    "sector_id": 296,
+    "drone_id": 1,
+    "center_latitude": 22.5282195,
+    "center_longitude": 75.9178163,
+    "timestamp": "2025-06-14 11:09:42"
+  },
+  {
+    "sector_id": 297,
+    "drone_id": 1,
+    "center_latitude": 22.5282713,
+    "center_longitude": 75.9180353,
+    "timestamp": "2025-06-14 11:09:53"
+  },
+  {
+    "sector_id": 298,
+    "drone_id": 1,
+    "center_latitude": 22.5280478,
+    "center_longitude": 75.9180623,
+    "timestamp": "2025-06-14 11:10:00"
+  },
+  {
+    "sector_id": 299,
+    "drone_id": 1,
+    "center_latitude": 22.5278228,
+    "center_longitude": 75.9180611,
+    "timestamp": "2025-06-14 11:10:05"
+  },
+  {
+    "sector_id": 300,
+    "drone_id": 1,
+    "center_latitude": 22.5275974,
+    "center_longitude": 75.9180607,
+    "timestamp": "2025-06-14 11:10:10"
+  },
+  {
+    "sector_id": 301,
+    "drone_id": 1,
+    "center_latitude": 22.5273724,
+    "center_longitude": 75.9180603,
+    "timestamp": "2025-06-14 11:10:15"
+  },
+  {
+    "sector_id": 302,
+    "drone_id": 1,
+    "center_latitude": 22.5271473,
+    "center_longitude": 75.9180598,
+    "timestamp": "2025-06-14 11:10:20"
+  },
+  {
+    "sector_id": 303,
+    "drone_id": 1,
+    "center_latitude": 22.5269222,
+    "center_longitude": 75.9180599,
+    "timestamp": "2025-06-14 11:10:25"
+  },
+  {
+    "sector_id": 304,
+    "drone_id": 1,
+    "center_latitude": 22.526697,
+    "center_longitude": 75.9180601,
+    "timestamp": "2025-06-14 11:10:30"
+  },
+  {
+    "sector_id": 305,
+    "drone_id": 1,
+    "center_latitude": 22.5264714,
+    "center_longitude": 75.9180605,
+    "timestamp": "2025-06-14 11:10:35"
+  },
+  {
+    "sector_id": 306,
+    "drone_id": 1,
+    "center_latitude": 22.526246,
+    "center_longitude": 75.9180608,
+    "timestamp": "2025-06-14 11:10:40"
+  },
+  {
+    "sector_id": 307,
+    "drone_id": 1,
+    "center_latitude": 22.5260203,
+    "center_longitude": 75.9180606,
+    "timestamp": "2025-06-14 11:10:45"
+  },
+  {
+    "sector_id": 308,
+    "drone_id": 1,
+    "center_latitude": 22.525795,
+    "center_longitude": 75.91806,
+    "timestamp": "2025-06-14 11:10:50"
+  },
+  {
+    "sector_id": 309,
+    "drone_id": 1,
+    "center_latitude": 22.5255696,
+    "center_longitude": 75.9180601,
+    "timestamp": "2025-06-14 11:10:55"
+  },
+  {
+    "sector_id": 310,
+    "drone_id": 1,
+    "center_latitude": 22.5253446,
+    "center_longitude": 75.9180605,
+    "timestamp": "2025-06-14 11:11:00"
+  },
+  {
+    "sector_id": 311,
+    "drone_id": 1,
+    "center_latitude": 22.5251191,
+    "center_longitude": 75.9180609,
+    "timestamp": "2025-06-14 11:11:05"
+  },
+  {
+    "sector_id": 312,
+    "drone_id": 1,
+    "center_latitude": 22.5248937,
+    "center_longitude": 75.9180606,
+    "timestamp": "2025-06-14 11:11:10"
+  },
+  {
+    "sector_id": 313,
+    "drone_id": 1,
+    "center_latitude": 22.5246686,
+    "center_longitude": 75.9180602,
+    "timestamp": "2025-06-14 11:11:15"
+  },
+  {
+    "sector_id": 314,
+    "drone_id": 1,
+    "center_latitude": 22.5244431,
+    "center_longitude": 75.9180601,
+    "timestamp": "2025-06-14 11:11:20"
+  },
+  {
+    "sector_id": 315,
+    "drone_id": 1,
+    "center_latitude": 22.5242181,
+    "center_longitude": 75.9180603,
+    "timestamp": "2025-06-14 11:11:26"
+  },
+  {
+    "sector_id": 316,
+    "drone_id": 1,
+    "center_latitude": 22.523993,
+    "center_longitude": 75.9180597,
+    "timestamp": "2025-06-14 11:11:31"
+  },
+  {
+    "sector_id": 317,
+    "drone_id": 1,
+    "center_latitude": 22.5237674,
+    "center_longitude": 75.9180605,
+    "timestamp": "2025-06-14 11:11:36"
+  },
+  {
+    "sector_id": 318,
+    "drone_id": 1,
+    "center_latitude": 22.523542,
+    "center_longitude": 75.9180605,
+    "timestamp": "2025-06-14 11:11:41"
+  },
+  {
+    "sector_id": 319,
+    "drone_id": 1,
+    "center_latitude": 22.523317,
+    "center_longitude": 75.918061,
+    "timestamp": "2025-06-14 11:11:46"
+  },
+  {
+    "sector_id": 320,
+    "drone_id": 1,
+    "center_latitude": 22.5230917,
+    "center_longitude": 75.918061,
+    "timestamp": "2025-06-14 11:11:51"
+  },
+  {
+    "sector_id": 321,
+    "drone_id": 1,
+    "center_latitude": 22.5228663,
+    "center_longitude": 75.9180613,
+    "timestamp": "2025-06-14 11:11:56"
+  },
+  {
+    "sector_id": 322,
+    "drone_id": 1,
+    "center_latitude": 22.5226407,
+    "center_longitude": 75.9180604,
+    "timestamp": "2025-06-14 11:12:01"
+  },
+  {
+    "sector_id": 323,
+    "drone_id": 1,
+    "center_latitude": 22.5224156,
+    "center_longitude": 75.9180607,
+    "timestamp": "2025-06-14 11:12:06"
+  },
+  {
+    "sector_id": 324,
+    "drone_id": 1,
+    "center_latitude": 22.5221903,
+    "center_longitude": 75.9180602,
+    "timestamp": "2025-06-14 11:12:11"
+  },
+  {
+    "sector_id": 325,
+    "drone_id": 1,
+    "center_latitude": 22.5219652,
+    "center_longitude": 75.9180602,
+    "timestamp": "2025-06-14 11:12:16"
+  },
+  {
+    "sector_id": 326,
+    "drone_id": 1,
+    "center_latitude": 22.5217397,
+    "center_longitude": 75.9180594,
+    "timestamp": "2025-06-14 11:12:21"
+  },
+  {
+    "sector_id": 327,
+    "drone_id": 1,
+    "center_latitude": 22.5215141,
+    "center_longitude": 75.9180602,
+    "timestamp": "2025-06-14 11:12:26"
+  },
+  {
+    "sector_id": 328,
+    "drone_id": 1,
+    "center_latitude": 22.5212884,
+    "center_longitude": 75.9180637,
+    "timestamp": "2025-06-14 11:12:31"
+  },
+  {
+    "sector_id": 329,
+    "drone_id": 1,
+    "center_latitude": 22.5210659,
+    "center_longitude": 75.918098,
+    "timestamp": "2025-06-14 11:12:36"
+  },
+  {
+    "sector_id": 330,
+    "drone_id": 1,
+    "center_latitude": 22.5208426,
+    "center_longitude": 75.9181322,
+    "timestamp": "2025-06-14 11:12:41"
+  },
+  {
+    "sector_id": 331,
+    "drone_id": 1,
+    "center_latitude": 22.5206194,
+    "center_longitude": 75.9181651,
+    "timestamp": "2025-06-14 11:12:46"
+  },
+  {
+    "sector_id": 332,
+    "drone_id": 1,
+    "center_latitude": 22.5203967,
+    "center_longitude": 75.9181978,
+    "timestamp": "2025-06-14 11:12:51"
+  },
+  {
+    "sector_id": 333,
+    "drone_id": 1,
+    "center_latitude": 22.5201738,
+    "center_longitude": 75.9182312,
+    "timestamp": "2025-06-14 11:12:56"
+  },
+  {
+    "sector_id": 334,
+    "drone_id": 1,
+    "center_latitude": 22.5199513,
+    "center_longitude": 75.9182652,
+    "timestamp": "2025-06-14 11:13:01"
+  },
+  {
+    "sector_id": 335,
+    "drone_id": 1,
+    "center_latitude": 22.5197287,
+    "center_longitude": 75.918298,
+    "timestamp": "2025-06-14 11:13:06"
+  },
+  {
+    "sector_id": 336,
+    "drone_id": 1,
+    "center_latitude": 22.5199542,
+    "center_longitude": 75.9183056,
+    "timestamp": "2025-06-14 11:13:15"
+  },
+  {
+    "sector_id": 337,
+    "drone_id": 1,
+    "center_latitude": 22.5201798,
+    "center_longitude": 75.9183036,
+    "timestamp": "2025-06-14 11:13:21"
+  },
+  {
+    "sector_id": 338,
+    "drone_id": 1,
+    "center_latitude": 22.5204048,
+    "center_longitude": 75.9183035,
+    "timestamp": "2025-06-14 11:13:26"
+  },
+  {
+    "sector_id": 339,
+    "drone_id": 1,
+    "center_latitude": 22.5206298,
+    "center_longitude": 75.9183036,
+    "timestamp": "2025-06-14 11:13:31"
+  },
+  {
+    "sector_id": 340,
+    "drone_id": 1,
+    "center_latitude": 22.5208552,
+    "center_longitude": 75.9183039,
+    "timestamp": "2025-06-14 11:13:36"
+  },
+  {
+    "sector_id": 341,
+    "drone_id": 1,
+    "center_latitude": 22.5210803,
+    "center_longitude": 75.9183036,
+    "timestamp": "2025-06-14 11:13:41"
+  },
+  {
+    "sector_id": 342,
+    "drone_id": 1,
+    "center_latitude": 22.5213063,
+    "center_longitude": 75.9183037,
+    "timestamp": "2025-06-14 11:13:46"
+  },
+  {
+    "sector_id": 343,
+    "drone_id": 1,
+    "center_latitude": 22.521532,
+    "center_longitude": 75.9183034,
+    "timestamp": "2025-06-14 11:13:51"
+  },
+  {
+    "sector_id": 344,
+    "drone_id": 1,
+    "center_latitude": 22.5217574,
+    "center_longitude": 75.9183044,
+    "timestamp": "2025-06-14 11:13:56"
+  },
+  {
+    "sector_id": 345,
+    "drone_id": 1,
+    "center_latitude": 22.5219828,
+    "center_longitude": 75.9183042,
+    "timestamp": "2025-06-14 11:14:01"
+  },
+  {
+    "sector_id": 346,
+    "drone_id": 1,
+    "center_latitude": 22.5222083,
+    "center_longitude": 75.9183035,
+    "timestamp": "2025-06-14 11:14:06"
+  },
+  {
+    "sector_id": 347,
+    "drone_id": 1,
+    "center_latitude": 22.5224335,
+    "center_longitude": 75.918303,
+    "timestamp": "2025-06-14 11:14:11"
+  },
+  {
+    "sector_id": 348,
+    "drone_id": 1,
+    "center_latitude": 22.522659,
+    "center_longitude": 75.9183032,
+    "timestamp": "2025-06-14 11:14:16"
+  },
+  {
+    "sector_id": 349,
+    "drone_id": 1,
+    "center_latitude": 22.5228841,
+    "center_longitude": 75.9183026,
+    "timestamp": "2025-06-14 11:14:21"
+  },
+  {
+    "sector_id": 350,
+    "drone_id": 1,
+    "center_latitude": 22.5231097,
+    "center_longitude": 75.9183039,
+    "timestamp": "2025-06-14 11:14:26"
+  },
+  {
+    "sector_id": 351,
+    "drone_id": 1,
+    "center_latitude": 22.5233355,
+    "center_longitude": 75.9183039,
+    "timestamp": "2025-06-14 11:14:31"
+  },
+  {
+    "sector_id": 352,
+    "drone_id": 1,
+    "center_latitude": 22.5235606,
+    "center_longitude": 75.9183042,
+    "timestamp": "2025-06-14 11:14:36"
+  },
+  {
+    "sector_id": 353,
+    "drone_id": 1,
+    "center_latitude": 22.5237856,
+    "center_longitude": 75.918304,
+    "timestamp": "2025-06-14 11:14:41"
+  },
+  {
+    "sector_id": 354,
+    "drone_id": 1,
+    "center_latitude": 22.5240116,
+    "center_longitude": 75.9183037,
+    "timestamp": "2025-06-14 11:14:46"
+  },
+  {
+    "sector_id": 355,
+    "drone_id": 1,
+    "center_latitude": 22.5242367,
+    "center_longitude": 75.9183036,
+    "timestamp": "2025-06-14 11:14:51"
+  },
+  {
+    "sector_id": 356,
+    "drone_id": 1,
+    "center_latitude": 22.5244622,
+    "center_longitude": 75.9183036,
+    "timestamp": "2025-06-14 11:14:56"
+  },
+  {
+    "sector_id": 357,
+    "drone_id": 1,
+    "center_latitude": 22.5246872,
+    "center_longitude": 75.9183041,
+    "timestamp": "2025-06-14 11:15:01"
+  },
+  {
+    "sector_id": 358,
+    "drone_id": 1,
+    "center_latitude": 22.5249131,
+    "center_longitude": 75.9183037,
+    "timestamp": "2025-06-14 11:15:06"
+  },
+  {
+    "sector_id": 359,
+    "drone_id": 1,
+    "center_latitude": 22.5251384,
+    "center_longitude": 75.9183037,
+    "timestamp": "2025-06-14 11:15:11"
+  },
+  {
+    "sector_id": 360,
+    "drone_id": 1,
+    "center_latitude": 22.5253644,
+    "center_longitude": 75.9183037,
+    "timestamp": "2025-06-14 11:15:16"
+  },
+  {
+    "sector_id": 361,
+    "drone_id": 1,
+    "center_latitude": 22.5255899,
+    "center_longitude": 75.9183037,
+    "timestamp": "2025-06-14 11:15:21"
+  },
+  {
+    "sector_id": 362,
+    "drone_id": 1,
+    "center_latitude": 22.525815,
+    "center_longitude": 75.9183038,
+    "timestamp": "2025-06-14 11:15:26"
+  },
+  {
+    "sector_id": 363,
+    "drone_id": 1,
+    "center_latitude": 22.5260406,
+    "center_longitude": 75.9183037,
+    "timestamp": "2025-06-14 11:15:31"
+  },
+  {
+    "sector_id": 364,
+    "drone_id": 1,
+    "center_latitude": 22.5262661,
+    "center_longitude": 75.9183042,
+    "timestamp": "2025-06-14 11:15:36"
+  },
+  {
+    "sector_id": 365,
+    "drone_id": 1,
+    "center_latitude": 22.5264911,
+    "center_longitude": 75.9183042,
+    "timestamp": "2025-06-14 11:15:41"
+  },
+  {
+    "sector_id": 366,
+    "drone_id": 1,
+    "center_latitude": 22.5267165,
+    "center_longitude": 75.9183037,
+    "timestamp": "2025-06-14 11:15:46"
+  },
+  {
+    "sector_id": 367,
+    "drone_id": 1,
+    "center_latitude": 22.526942,
+    "center_longitude": 75.9183043,
+    "timestamp": "2025-06-14 11:15:51"
+  },
+  {
+    "sector_id": 368,
+    "drone_id": 1,
+    "center_latitude": 22.5271674,
+    "center_longitude": 75.9183039,
+    "timestamp": "2025-06-14 11:15:56"
+  },
+  {
+    "sector_id": 369,
+    "drone_id": 1,
+    "center_latitude": 22.527393,
+    "center_longitude": 75.9183042,
+    "timestamp": "2025-06-14 11:16:01"
+  },
+  {
+    "sector_id": 370,
+    "drone_id": 1,
+    "center_latitude": 22.5276185,
+    "center_longitude": 75.9183041,
+    "timestamp": "2025-06-14 11:16:06"
+  },
+  {
+    "sector_id": 371,
+    "drone_id": 1,
+    "center_latitude": 22.5278439,
+    "center_longitude": 75.9183043,
+    "timestamp": "2025-06-14 11:16:11"
+  },
+  {
+    "sector_id": 372,
+    "drone_id": 1,
+    "center_latitude": 22.5280689,
+    "center_longitude": 75.9183036,
+    "timestamp": "2025-06-14 11:16:16"
+  },
+  {
+    "sector_id": 373,
+    "drone_id": 1,
+    "center_latitude": 22.5281255,
+    "center_longitude": 75.9185217,
+    "timestamp": "2025-06-14 11:16:27"
+  },
+  {
+    "sector_id": 374,
+    "drone_id": 1,
+    "center_latitude": 22.5279018,
+    "center_longitude": 75.9185493,
+    "timestamp": "2025-06-14 11:16:34"
+  },
+  {
+    "sector_id": 375,
+    "drone_id": 1,
+    "center_latitude": 22.5276765,
+    "center_longitude": 75.9185477,
+    "timestamp": "2025-06-14 11:16:39"
+  },
+  {
+    "sector_id": 376,
+    "drone_id": 1,
+    "center_latitude": 22.5274512,
+    "center_longitude": 75.9185472,
+    "timestamp": "2025-06-14 11:16:44"
+  },
+  {
+    "sector_id": 377,
+    "drone_id": 1,
+    "center_latitude": 22.5272261,
+    "center_longitude": 75.918547,
+    "timestamp": "2025-06-14 11:16:49"
+  },
+  {
+    "sector_id": 378,
+    "drone_id": 1,
+    "center_latitude": 22.5270002,
+    "center_longitude": 75.9185476,
+    "timestamp": "2025-06-14 11:16:54"
+  },
+  {
+    "sector_id": 379,
+    "drone_id": 1,
+    "center_latitude": 22.5267749,
+    "center_longitude": 75.9185479,
+    "timestamp": "2025-06-14 11:16:59"
+  },
+  {
+    "sector_id": 380,
+    "drone_id": 1,
+    "center_latitude": 22.5265499,
+    "center_longitude": 75.9185471,
+    "timestamp": "2025-06-14 11:17:04"
+  },
+  {
+    "sector_id": 381,
+    "drone_id": 1,
+    "center_latitude": 22.5263248,
+    "center_longitude": 75.918548,
+    "timestamp": "2025-06-14 11:17:09"
+  },
+  {
+    "sector_id": 382,
+    "drone_id": 1,
+    "center_latitude": 22.5260989,
+    "center_longitude": 75.918548,
+    "timestamp": "2025-06-14 11:17:14"
+  },
+  {
+    "sector_id": 383,
+    "drone_id": 1,
+    "center_latitude": 22.5258738,
+    "center_longitude": 75.9185475,
+    "timestamp": "2025-06-14 11:17:19"
+  },
+  {
+    "sector_id": 384,
+    "drone_id": 1,
+    "center_latitude": 22.5256486,
+    "center_longitude": 75.9185466,
+    "timestamp": "2025-06-14 11:17:24"
+  },
+  {
+    "sector_id": 385,
+    "drone_id": 1,
+    "center_latitude": 22.5254235,
+    "center_longitude": 75.9185466,
+    "timestamp": "2025-06-14 11:17:29"
+  },
+  {
+    "sector_id": 386,
+    "drone_id": 1,
+    "center_latitude": 22.5251978,
+    "center_longitude": 75.9185465,
+    "timestamp": "2025-06-14 11:17:34"
+  },
+  {
+    "sector_id": 387,
+    "drone_id": 1,
+    "center_latitude": 22.5249728,
+    "center_longitude": 75.9185472,
+    "timestamp": "2025-06-14 11:17:39"
+  },
+  {
+    "sector_id": 388,
+    "drone_id": 1,
+    "center_latitude": 22.5247473,
+    "center_longitude": 75.9185478,
+    "timestamp": "2025-06-14 11:17:44"
+  },
+  {
+    "sector_id": 389,
+    "drone_id": 1,
+    "center_latitude": 22.5245222,
+    "center_longitude": 75.9185477,
+    "timestamp": "2025-06-14 11:17:49"
+  },
+  {
+    "sector_id": 390,
+    "drone_id": 1,
+    "center_latitude": 22.5242967,
+    "center_longitude": 75.918547,
+    "timestamp": "2025-06-14 11:17:54"
+  },
+  {
+    "sector_id": 391,
+    "drone_id": 1,
+    "center_latitude": 22.5240714,
+    "center_longitude": 75.9185472,
+    "timestamp": "2025-06-14 11:17:59"
+  },
+  {
+    "sector_id": 392,
+    "drone_id": 1,
+    "center_latitude": 22.5238455,
+    "center_longitude": 75.9185477,
+    "timestamp": "2025-06-14 11:18:04"
+  },
+  {
+    "sector_id": 393,
+    "drone_id": 1,
+    "center_latitude": 22.5236201,
+    "center_longitude": 75.9185469,
+    "timestamp": "2025-06-14 11:18:09"
+  },
+  {
+    "sector_id": 394,
+    "drone_id": 1,
+    "center_latitude": 22.5233941,
+    "center_longitude": 75.9185476,
+    "timestamp": "2025-06-14 11:18:14"
+  },
+  {
+    "sector_id": 395,
+    "drone_id": 1,
+    "center_latitude": 22.5231688,
+    "center_longitude": 75.9185466,
+    "timestamp": "2025-06-14 11:18:19"
+  },
+  {
+    "sector_id": 396,
+    "drone_id": 1,
+    "center_latitude": 22.5229438,
+    "center_longitude": 75.9185473,
+    "timestamp": "2025-06-14 11:18:24"
+  },
+  {
+    "sector_id": 397,
+    "drone_id": 1,
+    "center_latitude": 22.5227178,
+    "center_longitude": 75.9185474,
+    "timestamp": "2025-06-14 11:18:29"
+  },
+  {
+    "sector_id": 398,
+    "drone_id": 1,
+    "center_latitude": 22.5224928,
+    "center_longitude": 75.9185468,
+    "timestamp": "2025-06-14 11:18:34"
+  },
+  {
+    "sector_id": 399,
+    "drone_id": 1,
+    "center_latitude": 22.5222675,
+    "center_longitude": 75.9185473,
+    "timestamp": "2025-06-14 11:18:39"
+  },
+  {
+    "sector_id": 400,
+    "drone_id": 1,
+    "center_latitude": 22.5220416,
+    "center_longitude": 75.9185469,
+    "timestamp": "2025-06-14 11:18:44"
+  },
+  {
+    "sector_id": 401,
+    "drone_id": 1,
+    "center_latitude": 22.5218157,
+    "center_longitude": 75.9185477,
+    "timestamp": "2025-06-14 11:18:49"
+  },
+  {
+    "sector_id": 402,
+    "drone_id": 1,
+    "center_latitude": 22.5215901,
+    "center_longitude": 75.9185471,
+    "timestamp": "2025-06-14 11:18:54"
+  },
+  {
+    "sector_id": 403,
+    "drone_id": 1,
+    "center_latitude": 22.521365,
+    "center_longitude": 75.9185473,
+    "timestamp": "2025-06-14 11:18:59"
+  },
+  {
+    "sector_id": 404,
+    "drone_id": 1,
+    "center_latitude": 22.5211399,
+    "center_longitude": 75.9185473,
+    "timestamp": "2025-06-14 11:19:04"
+  },
+  {
+    "sector_id": 405,
+    "drone_id": 1,
+    "center_latitude": 22.5209142,
+    "center_longitude": 75.9185478,
+    "timestamp": "2025-06-14 11:19:09"
+  },
+  {
+    "sector_id": 406,
+    "drone_id": 1,
+    "center_latitude": 22.5206889,
+    "center_longitude": 75.9185471,
+    "timestamp": "2025-06-14 11:19:14"
+  },
+  {
+    "sector_id": 407,
+    "drone_id": 1,
+    "center_latitude": 22.520463,
+    "center_longitude": 75.9185476,
+    "timestamp": "2025-06-14 11:19:19"
+  },
+  {
+    "sector_id": 408,
+    "drone_id": 1,
+    "center_latitude": 22.5202375,
+    "center_longitude": 75.9185474,
+    "timestamp": "2025-06-14 11:19:24"
+  },
+  {
+    "sector_id": 409,
+    "drone_id": 1,
+    "center_latitude": 22.5200125,
+    "center_longitude": 75.9185469,
+    "timestamp": "2025-06-14 11:19:29"
+  },
+  {
+    "sector_id": 410,
+    "drone_id": 1,
+    "center_latitude": 22.5198336,
+    "center_longitude": 75.9186835,
+    "timestamp": "2025-06-14 11:19:40"
+  },
+  {
+    "sector_id": 411,
+    "drone_id": 1,
+    "center_latitude": 22.5200303,
+    "center_longitude": 75.9187931,
+    "timestamp": "2025-06-14 11:19:48"
+  },
+  {
+    "sector_id": 412,
+    "drone_id": 1,
+    "center_latitude": 22.5202559,
+    "center_longitude": 75.9187918,
+    "timestamp": "2025-06-14 11:19:54"
+  },
+  {
+    "sector_id": 413,
+    "drone_id": 1,
+    "center_latitude": 22.5204811,
+    "center_longitude": 75.9187909,
+    "timestamp": "2025-06-14 11:19:59"
+  },
+  {
+    "sector_id": 414,
+    "drone_id": 1,
+    "center_latitude": 22.5207062,
+    "center_longitude": 75.91879,
+    "timestamp": "2025-06-14 11:20:04"
+  },
+  {
+    "sector_id": 415,
+    "drone_id": 1,
+    "center_latitude": 22.5209318,
+    "center_longitude": 75.9187904,
+    "timestamp": "2025-06-14 11:20:09"
+  },
+  {
+    "sector_id": 416,
+    "drone_id": 1,
+    "center_latitude": 22.5211575,
+    "center_longitude": 75.9187902,
+    "timestamp": "2025-06-14 11:20:14"
+  },
+  {
+    "sector_id": 417,
+    "drone_id": 1,
+    "center_latitude": 22.5213835,
+    "center_longitude": 75.9187898,
+    "timestamp": "2025-06-14 11:20:19"
+  },
+  {
+    "sector_id": 418,
+    "drone_id": 1,
+    "center_latitude": 22.521609,
+    "center_longitude": 75.9187905,
+    "timestamp": "2025-06-14 11:20:24"
+  },
+  {
+    "sector_id": 419,
+    "drone_id": 1,
+    "center_latitude": 22.5218342,
+    "center_longitude": 75.9187907,
+    "timestamp": "2025-06-14 11:20:29"
+  },
+  {
+    "sector_id": 420,
+    "drone_id": 1,
+    "center_latitude": 22.5220602,
+    "center_longitude": 75.9187907,
+    "timestamp": "2025-06-14 11:20:34"
+  },
+  {
+    "sector_id": 421,
+    "drone_id": 1,
+    "center_latitude": 22.5222855,
+    "center_longitude": 75.918791,
+    "timestamp": "2025-06-14 11:20:39"
+  },
+  {
+    "sector_id": 422,
+    "drone_id": 1,
+    "center_latitude": 22.5225106,
+    "center_longitude": 75.9187907,
+    "timestamp": "2025-06-14 11:20:44"
+  },
+  {
+    "sector_id": 423,
+    "drone_id": 1,
+    "center_latitude": 22.5227363,
+    "center_longitude": 75.9187903,
+    "timestamp": "2025-06-14 11:20:49"
+  },
+  {
+    "sector_id": 424,
+    "drone_id": 1,
+    "center_latitude": 22.5229618,
+    "center_longitude": 75.9187901,
+    "timestamp": "2025-06-14 11:20:54"
+  },
+  {
+    "sector_id": 425,
+    "drone_id": 1,
+    "center_latitude": 22.523187,
+    "center_longitude": 75.9187906,
+    "timestamp": "2025-06-14 11:20:59"
+  },
+  {
+    "sector_id": 426,
+    "drone_id": 1,
+    "center_latitude": 22.5234123,
+    "center_longitude": 75.9187913,
+    "timestamp": "2025-06-14 11:21:04"
+  },
+  {
+    "sector_id": 427,
+    "drone_id": 1,
+    "center_latitude": 22.5236379,
+    "center_longitude": 75.9187903,
+    "timestamp": "2025-06-14 11:21:09"
+  },
+  {
+    "sector_id": 428,
+    "drone_id": 1,
+    "center_latitude": 22.5238635,
+    "center_longitude": 75.9187903,
+    "timestamp": "2025-06-14 11:21:14"
+  },
+  {
+    "sector_id": 429,
+    "drone_id": 1,
+    "center_latitude": 22.5240889,
+    "center_longitude": 75.9187906,
+    "timestamp": "2025-06-14 11:21:19"
+  },
+  {
+    "sector_id": 430,
+    "drone_id": 1,
+    "center_latitude": 22.5243139,
+    "center_longitude": 75.9187914,
+    "timestamp": "2025-06-14 11:21:24"
+  },
+  {
+    "sector_id": 431,
+    "drone_id": 1,
+    "center_latitude": 22.5245395,
+    "center_longitude": 75.9187907,
+    "timestamp": "2025-06-14 11:21:29"
+  },
+  {
+    "sector_id": 432,
+    "drone_id": 1,
+    "center_latitude": 22.5247652,
+    "center_longitude": 75.9187902,
+    "timestamp": "2025-06-14 11:21:34"
+  },
+  {
+    "sector_id": 433,
+    "drone_id": 1,
+    "center_latitude": 22.5249907,
+    "center_longitude": 75.9187907,
+    "timestamp": "2025-06-14 11:21:39"
+  },
+  {
+    "sector_id": 434,
+    "drone_id": 1,
+    "center_latitude": 22.5252161,
+    "center_longitude": 75.9187908,
+    "timestamp": "2025-06-14 11:21:44"
+  },
+  {
+    "sector_id": 435,
+    "drone_id": 1,
+    "center_latitude": 22.5254416,
+    "center_longitude": 75.9187907,
+    "timestamp": "2025-06-14 11:21:49"
+  },
+  {
+    "sector_id": 436,
+    "drone_id": 1,
+    "center_latitude": 22.525667,
+    "center_longitude": 75.9187906,
+    "timestamp": "2025-06-14 11:21:54"
+  },
+  {
+    "sector_id": 437,
+    "drone_id": 1,
+    "center_latitude": 22.5258927,
+    "center_longitude": 75.9187903,
+    "timestamp": "2025-06-14 11:21:59"
+  },
+  {
+    "sector_id": 438,
+    "drone_id": 1,
+    "center_latitude": 22.526118,
+    "center_longitude": 75.9187905,
+    "timestamp": "2025-06-14 11:22:04"
+  },
+  {
+    "sector_id": 439,
+    "drone_id": 1,
+    "center_latitude": 22.526343,
+    "center_longitude": 75.9187907,
+    "timestamp": "2025-06-14 11:22:09"
+  },
+  {
+    "sector_id": 440,
+    "drone_id": 1,
+    "center_latitude": 22.5265688,
+    "center_longitude": 75.9187907,
+    "timestamp": "2025-06-14 11:22:14"
+  },
+  {
+    "sector_id": 441,
+    "drone_id": 1,
+    "center_latitude": 22.526794,
+    "center_longitude": 75.9187905,
+    "timestamp": "2025-06-14 11:22:19"
+  },
+  {
+    "sector_id": 442,
+    "drone_id": 1,
+    "center_latitude": 22.5270196,
+    "center_longitude": 75.9187911,
+    "timestamp": "2025-06-14 11:22:24"
+  },
+  {
+    "sector_id": 443,
+    "drone_id": 1,
+    "center_latitude": 22.5272456,
+    "center_longitude": 75.9187904,
+    "timestamp": "2025-06-14 11:22:29"
+  },
+  {
+    "sector_id": 444,
+    "drone_id": 1,
+    "center_latitude": 22.5274711,
+    "center_longitude": 75.9187908,
+    "timestamp": "2025-06-14 11:22:34"
+  },
+  {
+    "sector_id": 445,
+    "drone_id": 1,
+    "center_latitude": 22.5276967,
+    "center_longitude": 75.9187908,
+    "timestamp": "2025-06-14 11:22:39"
+  },
+  {
+    "sector_id": 446,
+    "drone_id": 1,
+    "center_latitude": 22.5279223,
+    "center_longitude": 75.9187909,
+    "timestamp": "2025-06-14 11:22:44"
+  },
+  {
+    "sector_id": 447,
+    "drone_id": 1,
+    "center_latitude": 22.5280135,
+    "center_longitude": 75.9189968,
+    "timestamp": "2025-06-14 11:22:55"
+  },
+  {
+    "sector_id": 448,
+    "drone_id": 1,
+    "center_latitude": 22.5277911,
+    "center_longitude": 75.9190362,
+    "timestamp": "2025-06-14 11:23:02"
+  },
+  {
+    "sector_id": 449,
+    "drone_id": 1,
+    "center_latitude": 22.5275652,
+    "center_longitude": 75.9190348,
+    "timestamp": "2025-06-14 11:23:07"
+  },
+  {
+    "sector_id": 450,
+    "drone_id": 1,
+    "center_latitude": 22.5273402,
+    "center_longitude": 75.9190342,
+    "timestamp": "2025-06-14 11:23:12"
+  },
+  {
+    "sector_id": 451,
+    "drone_id": 1,
+    "center_latitude": 22.5271144,
+    "center_longitude": 75.9190338,
+    "timestamp": "2025-06-14 11:23:17"
+  },
+  {
+    "sector_id": 452,
+    "drone_id": 1,
+    "center_latitude": 22.5268888,
+    "center_longitude": 75.9190345,
+    "timestamp": "2025-06-14 11:23:22"
+  },
+  {
+    "sector_id": 453,
+    "drone_id": 1,
+    "center_latitude": 22.5266635,
+    "center_longitude": 75.9190339,
+    "timestamp": "2025-06-14 11:23:27"
+  },
+  {
+    "sector_id": 454,
+    "drone_id": 1,
+    "center_latitude": 22.5264375,
+    "center_longitude": 75.9190334,
+    "timestamp": "2025-06-14 11:23:33"
+  },
+  {
+    "sector_id": 455,
+    "drone_id": 1,
+    "center_latitude": 22.5262121,
+    "center_longitude": 75.9190343,
+    "timestamp": "2025-06-14 11:23:38"
+  },
+  {
+    "sector_id": 456,
+    "drone_id": 1,
+    "center_latitude": 22.5259867,
+    "center_longitude": 75.919034,
+    "timestamp": "2025-06-14 11:23:43"
+  },
+  {
+    "sector_id": 457,
+    "drone_id": 1,
+    "center_latitude": 22.5257616,
+    "center_longitude": 75.9190346,
+    "timestamp": "2025-06-14 11:23:48"
+  },
+  {
+    "sector_id": 458,
+    "drone_id": 1,
+    "center_latitude": 22.5255362,
+    "center_longitude": 75.9190344,
+    "timestamp": "2025-06-14 11:23:53"
+  },
+  {
+    "sector_id": 459,
+    "drone_id": 1,
+    "center_latitude": 22.5253103,
+    "center_longitude": 75.9190338,
+    "timestamp": "2025-06-14 11:23:58"
+  },
+  {
+    "sector_id": 460,
+    "drone_id": 1,
+    "center_latitude": 22.5250848,
+    "center_longitude": 75.9190336,
+    "timestamp": "2025-06-14 11:24:03"
+  },
+  {
+    "sector_id": 461,
+    "drone_id": 1,
+    "center_latitude": 22.524859,
+    "center_longitude": 75.9190341,
+    "timestamp": "2025-06-14 11:24:08"
+  },
+  {
+    "sector_id": 462,
+    "drone_id": 1,
+    "center_latitude": 22.524634,
+    "center_longitude": 75.9190341,
+    "timestamp": "2025-06-14 11:24:13"
+  },
+  {
+    "sector_id": 463,
+    "drone_id": 1,
+    "center_latitude": 22.5244084,
+    "center_longitude": 75.9190338,
+    "timestamp": "2025-06-14 11:24:18"
+  },
+  {
+    "sector_id": 464,
+    "drone_id": 1,
+    "center_latitude": 22.5241834,
+    "center_longitude": 75.9190335,
+    "timestamp": "2025-06-14 11:24:23"
+  },
+  {
+    "sector_id": 465,
+    "drone_id": 1,
+    "center_latitude": 22.5239575,
+    "center_longitude": 75.9190343,
+    "timestamp": "2025-06-14 11:24:28"
+  },
+  {
+    "sector_id": 466,
+    "drone_id": 1,
+    "center_latitude": 22.5237319,
+    "center_longitude": 75.9190348,
+    "timestamp": "2025-06-14 11:24:33"
+  },
+  {
+    "sector_id": 467,
+    "drone_id": 1,
+    "center_latitude": 22.5235069,
+    "center_longitude": 75.9190338,
+    "timestamp": "2025-06-14 11:24:38"
+  },
+  {
+    "sector_id": 468,
+    "drone_id": 1,
+    "center_latitude": 22.5232818,
+    "center_longitude": 75.919033,
+    "timestamp": "2025-06-14 11:24:43"
+  },
+  {
+    "sector_id": 469,
+    "drone_id": 1,
+    "center_latitude": 22.5230558,
+    "center_longitude": 75.9190336,
+    "timestamp": "2025-06-14 11:24:48"
+  },
+  {
+    "sector_id": 470,
+    "drone_id": 1,
+    "center_latitude": 22.5228307,
+    "center_longitude": 75.9190345,
+    "timestamp": "2025-06-14 11:24:53"
+  },
+  {
+    "sector_id": 471,
+    "drone_id": 1,
+    "center_latitude": 22.5226051,
+    "center_longitude": 75.9190343,
+    "timestamp": "2025-06-14 11:24:58"
+  },
+  {
+    "sector_id": 472,
+    "drone_id": 1,
+    "center_latitude": 22.5223795,
+    "center_longitude": 75.9190346,
+    "timestamp": "2025-06-14 11:25:03"
+  },
+  {
+    "sector_id": 473,
+    "drone_id": 1,
+    "center_latitude": 22.5221544,
+    "center_longitude": 75.919034,
+    "timestamp": "2025-06-14 11:25:08"
+  },
+  {
+    "sector_id": 474,
+    "drone_id": 1,
+    "center_latitude": 22.5219288,
+    "center_longitude": 75.9190338,
+    "timestamp": "2025-06-14 11:25:13"
+  },
+  {
+    "sector_id": 475,
+    "drone_id": 1,
+    "center_latitude": 22.5217036,
+    "center_longitude": 75.9190341,
+    "timestamp": "2025-06-14 11:25:18"
+  },
+  {
+    "sector_id": 476,
+    "drone_id": 1,
+    "center_latitude": 22.5214786,
+    "center_longitude": 75.9190337,
+    "timestamp": "2025-06-14 11:25:23"
+  },
+  {
+    "sector_id": 477,
+    "drone_id": 1,
+    "center_latitude": 22.521253,
+    "center_longitude": 75.9190333,
+    "timestamp": "2025-06-14 11:25:28"
+  },
+  {
+    "sector_id": 478,
+    "drone_id": 1,
+    "center_latitude": 22.5210279,
+    "center_longitude": 75.9190336,
+    "timestamp": "2025-06-14 11:25:33"
+  },
+  {
+    "sector_id": 479,
+    "drone_id": 1,
+    "center_latitude": 22.5208023,
+    "center_longitude": 75.9190336,
+    "timestamp": "2025-06-14 11:25:38"
+  },
+  {
+    "sector_id": 480,
+    "drone_id": 1,
+    "center_latitude": 22.5205773,
+    "center_longitude": 75.9190345,
+    "timestamp": "2025-06-14 11:25:43"
+  },
+  {
+    "sector_id": 481,
+    "drone_id": 1,
+    "center_latitude": 22.5203521,
+    "center_longitude": 75.9190342,
+    "timestamp": "2025-06-14 11:25:48"
+  },
+  {
+    "sector_id": 482,
+    "drone_id": 1,
+    "center_latitude": 22.520127,
+    "center_longitude": 75.9190335,
+    "timestamp": "2025-06-14 11:25:53"
+  },
+  {
+    "sector_id": 483,
+    "drone_id": 1,
+    "center_latitude": 22.5199481,
+    "center_longitude": 75.9191701,
+    "timestamp": "2025-06-14 11:26:03"
+  },
+  {
+    "sector_id": 484,
+    "drone_id": 1,
+    "center_latitude": 22.5201445,
+    "center_longitude": 75.9192799,
+    "timestamp": "2025-06-14 11:26:12"
+  },
+  {
+    "sector_id": 485,
+    "drone_id": 1,
+    "center_latitude": 22.5203696,
+    "center_longitude": 75.9192774,
+    "timestamp": "2025-06-14 11:26:17"
+  },
+  {
+    "sector_id": 486,
+    "drone_id": 1,
+    "center_latitude": 22.5205948,
+    "center_longitude": 75.9192772,
+    "timestamp": "2025-06-14 11:26:22"
+  },
+  {
+    "sector_id": 487,
+    "drone_id": 1,
+    "center_latitude": 22.5208203,
+    "center_longitude": 75.9192771,
+    "timestamp": "2025-06-14 11:26:27"
+  },
+  {
+    "sector_id": 488,
+    "drone_id": 1,
+    "center_latitude": 22.521046,
+    "center_longitude": 75.9192776,
+    "timestamp": "2025-06-14 11:26:32"
+  },
+  {
+    "sector_id": 489,
+    "drone_id": 1,
+    "center_latitude": 22.521271,
+    "center_longitude": 75.919277,
+    "timestamp": "2025-06-14 11:26:37"
+  },
+  {
+    "sector_id": 490,
+    "drone_id": 1,
+    "center_latitude": 22.5214969,
+    "center_longitude": 75.9192773,
+    "timestamp": "2025-06-14 11:26:42"
+  },
+  {
+    "sector_id": 491,
+    "drone_id": 1,
+    "center_latitude": 22.5217225,
+    "center_longitude": 75.9192778,
+    "timestamp": "2025-06-14 11:26:47"
+  },
+  {
+    "sector_id": 492,
+    "drone_id": 1,
+    "center_latitude": 22.5219476,
+    "center_longitude": 75.9192776,
+    "timestamp": "2025-06-14 11:26:52"
+  },
+  {
+    "sector_id": 493,
+    "drone_id": 1,
+    "center_latitude": 22.5221729,
+    "center_longitude": 75.919277,
+    "timestamp": "2025-06-14 11:26:57"
+  },
+  {
+    "sector_id": 494,
+    "drone_id": 1,
+    "center_latitude": 22.5223988,
+    "center_longitude": 75.9192774,
+    "timestamp": "2025-06-14 11:27:02"
+  },
+  {
+    "sector_id": 495,
+    "drone_id": 1,
+    "center_latitude": 22.5226238,
+    "center_longitude": 75.9192774,
+    "timestamp": "2025-06-14 11:27:07"
+  },
+  {
+    "sector_id": 496,
+    "drone_id": 1,
+    "center_latitude": 22.5228488,
+    "center_longitude": 75.9192766,
+    "timestamp": "2025-06-14 11:27:12"
+  },
+  {
+    "sector_id": 497,
+    "drone_id": 1,
+    "center_latitude": 22.5230739,
+    "center_longitude": 75.9192775,
+    "timestamp": "2025-06-14 11:27:17"
+  },
+  {
+    "sector_id": 498,
+    "drone_id": 1,
+    "center_latitude": 22.5232993,
+    "center_longitude": 75.9192778,
+    "timestamp": "2025-06-14 11:27:22"
+  },
+  {
+    "sector_id": 499,
+    "drone_id": 1,
+    "center_latitude": 22.5235249,
+    "center_longitude": 75.9192773,
+    "timestamp": "2025-06-14 11:27:27"
+  },
+  {
+    "sector_id": 500,
+    "drone_id": 1,
+    "center_latitude": 22.5237505,
+    "center_longitude": 75.919278,
+    "timestamp": "2025-06-14 11:27:32"
+  },
+  {
+    "sector_id": 501,
+    "drone_id": 1,
+    "center_latitude": 22.5239765,
+    "center_longitude": 75.9192776,
+    "timestamp": "2025-06-14 11:27:37"
+  },
+  {
+    "sector_id": 502,
+    "drone_id": 1,
+    "center_latitude": 22.5242018,
+    "center_longitude": 75.9192766,
+    "timestamp": "2025-06-14 11:27:42"
+  },
+  {
+    "sector_id": 503,
+    "drone_id": 1,
+    "center_latitude": 22.5244275,
+    "center_longitude": 75.9192768,
+    "timestamp": "2025-06-14 11:27:47"
+  },
+  {
+    "sector_id": 504,
+    "drone_id": 1,
+    "center_latitude": 22.5246527,
+    "center_longitude": 75.9192772,
+    "timestamp": "2025-06-14 11:27:52"
+  },
+  {
+    "sector_id": 505,
+    "drone_id": 1,
+    "center_latitude": 22.5248779,
+    "center_longitude": 75.9192775,
+    "timestamp": "2025-06-14 11:27:57"
+  },
+  {
+    "sector_id": 506,
+    "drone_id": 1,
+    "center_latitude": 22.5251035,
+    "center_longitude": 75.919278,
+    "timestamp": "2025-06-14 11:28:02"
+  },
+  {
+    "sector_id": 507,
+    "drone_id": 1,
+    "center_latitude": 22.5253292,
+    "center_longitude": 75.9192777,
+    "timestamp": "2025-06-14 11:28:07"
+  },
+  {
+    "sector_id": 508,
+    "drone_id": 1,
+    "center_latitude": 22.5255544,
+    "center_longitude": 75.9192769,
+    "timestamp": "2025-06-14 11:28:12"
+  },
+  {
+    "sector_id": 509,
+    "drone_id": 1,
+    "center_latitude": 22.5257795,
+    "center_longitude": 75.9192777,
+    "timestamp": "2025-06-14 11:28:17"
+  },
+  {
+    "sector_id": 510,
+    "drone_id": 1,
+    "center_latitude": 22.5260045,
+    "center_longitude": 75.9192775,
+    "timestamp": "2025-06-14 11:28:22"
+  },
+  {
+    "sector_id": 511,
+    "drone_id": 1,
+    "center_latitude": 22.5262303,
+    "center_longitude": 75.919278,
+    "timestamp": "2025-06-14 11:28:27"
+  },
+  {
+    "sector_id": 512,
+    "drone_id": 1,
+    "center_latitude": 22.5264555,
+    "center_longitude": 75.9192774,
+    "timestamp": "2025-06-14 11:28:32"
+  },
+  {
+    "sector_id": 513,
+    "drone_id": 1,
+    "center_latitude": 22.5266815,
+    "center_longitude": 75.9192775,
+    "timestamp": "2025-06-14 11:28:37"
+  },
+  {
+    "sector_id": 514,
+    "drone_id": 1,
+    "center_latitude": 22.5269071,
+    "center_longitude": 75.9192781,
+    "timestamp": "2025-06-14 11:28:42"
+  },
+  {
+    "sector_id": 515,
+    "drone_id": 1,
+    "center_latitude": 22.527133,
+    "center_longitude": 75.9192779,
+    "timestamp": "2025-06-14 11:28:48"
+  },
+  {
+    "sector_id": 516,
+    "drone_id": 1,
+    "center_latitude": 22.5273583,
+    "center_longitude": 75.919277,
+    "timestamp": "2025-06-14 11:28:53"
+  },
+  {
+    "sector_id": 517,
+    "drone_id": 1,
+    "center_latitude": 22.5275836,
+    "center_longitude": 75.919277,
+    "timestamp": "2025-06-14 11:28:58"
+  },
+  {
+    "sector_id": 518,
+    "drone_id": 1,
+    "center_latitude": 22.5278091,
+    "center_longitude": 75.9192777,
+    "timestamp": "2025-06-14 11:29:03"
+  },
+  {
+    "sector_id": 519,
+    "drone_id": 1,
+    "center_latitude": 22.5279526,
+    "center_longitude": 75.9194514,
+    "timestamp": "2025-06-14 11:29:12"
+  },
+  {
+    "sector_id": 520,
+    "drone_id": 1,
+    "center_latitude": 22.5277387,
+    "center_longitude": 75.9195232,
+    "timestamp": "2025-06-14 11:29:21"
+  },
+  {
+    "sector_id": 521,
+    "drone_id": 1,
+    "center_latitude": 22.5275133,
+    "center_longitude": 75.9195222,
+    "timestamp": "2025-06-14 11:29:26"
+  },
+  {
+    "sector_id": 522,
+    "drone_id": 1,
+    "center_latitude": 22.5272883,
+    "center_longitude": 75.9195223,
+    "timestamp": "2025-06-14 11:29:31"
+  },
+  {
+    "sector_id": 523,
+    "drone_id": 1,
+    "center_latitude": 22.527063,
+    "center_longitude": 75.9195212,
+    "timestamp": "2025-06-14 11:29:36"
+  },
+  {
+    "sector_id": 524,
+    "drone_id": 1,
+    "center_latitude": 22.5268379,
+    "center_longitude": 75.9195208,
+    "timestamp": "2025-06-14 11:29:41"
+  },
+  {
+    "sector_id": 525,
+    "drone_id": 1,
+    "center_latitude": 22.5266121,
+    "center_longitude": 75.9195206,
+    "timestamp": "2025-06-14 11:29:46"
+  },
+  {
+    "sector_id": 526,
+    "drone_id": 1,
+    "center_latitude": 22.526387,
+    "center_longitude": 75.9195207,
+    "timestamp": "2025-06-14 11:29:51"
+  },
+  {
+    "sector_id": 527,
+    "drone_id": 1,
+    "center_latitude": 22.5261611,
+    "center_longitude": 75.9195208,
+    "timestamp": "2025-06-14 11:29:56"
+  },
+  {
+    "sector_id": 528,
+    "drone_id": 1,
+    "center_latitude": 22.525936,
+    "center_longitude": 75.9195211,
+    "timestamp": "2025-06-14 11:30:01"
+  },
+  {
+    "sector_id": 529,
+    "drone_id": 1,
+    "center_latitude": 22.5257104,
+    "center_longitude": 75.9195212,
+    "timestamp": "2025-06-14 11:30:06"
+  },
+  {
+    "sector_id": 530,
+    "drone_id": 1,
+    "center_latitude": 22.5254845,
+    "center_longitude": 75.9195209,
+    "timestamp": "2025-06-14 11:30:11"
+  },
+  {
+    "sector_id": 531,
+    "drone_id": 1,
+    "center_latitude": 22.5252595,
+    "center_longitude": 75.919521,
+    "timestamp": "2025-06-14 11:30:16"
+  },
+  {
+    "sector_id": 532,
+    "drone_id": 1,
+    "center_latitude": 22.5250343,
+    "center_longitude": 75.9195205,
+    "timestamp": "2025-06-14 11:30:21"
+  },
+  {
+    "sector_id": 533,
+    "drone_id": 1,
+    "center_latitude": 22.5248091,
+    "center_longitude": 75.9195215,
+    "timestamp": "2025-06-14 11:30:26"
+  },
+  {
+    "sector_id": 534,
+    "drone_id": 1,
+    "center_latitude": 22.5245835,
+    "center_longitude": 75.9195214,
+    "timestamp": "2025-06-14 11:30:31"
+  },
+  {
+    "sector_id": 535,
+    "drone_id": 1,
+    "center_latitude": 22.5243579,
+    "center_longitude": 75.919521,
+    "timestamp": "2025-06-14 11:30:36"
+  },
+  {
+    "sector_id": 536,
+    "drone_id": 1,
+    "center_latitude": 22.5241322,
+    "center_longitude": 75.9195206,
+    "timestamp": "2025-06-14 11:30:41"
+  },
+  {
+    "sector_id": 537,
+    "drone_id": 1,
+    "center_latitude": 22.523907,
+    "center_longitude": 75.9195207,
+    "timestamp": "2025-06-14 11:30:46"
+  },
+  {
+    "sector_id": 538,
+    "drone_id": 1,
+    "center_latitude": 22.5236817,
+    "center_longitude": 75.9195204,
+    "timestamp": "2025-06-14 11:30:51"
+  },
+  {
+    "sector_id": 539,
+    "drone_id": 1,
+    "center_latitude": 22.5234565,
+    "center_longitude": 75.9195208,
+    "timestamp": "2025-06-14 11:30:56"
+  },
+  {
+    "sector_id": 540,
+    "drone_id": 1,
+    "center_latitude": 22.523231,
+    "center_longitude": 75.9195214,
+    "timestamp": "2025-06-14 11:31:01"
+  },
+  {
+    "sector_id": 541,
+    "drone_id": 1,
+    "center_latitude": 22.5230056,
+    "center_longitude": 75.9195207,
+    "timestamp": "2025-06-14 11:31:06"
+  },
+  {
+    "sector_id": 542,
+    "drone_id": 1,
+    "center_latitude": 22.5227804,
+    "center_longitude": 75.9195215,
+    "timestamp": "2025-06-14 11:31:11"
+  },
+  {
+    "sector_id": 543,
+    "drone_id": 1,
+    "center_latitude": 22.5225545,
+    "center_longitude": 75.9195213,
+    "timestamp": "2025-06-14 11:31:16"
+  },
+  {
+    "sector_id": 544,
+    "drone_id": 1,
+    "center_latitude": 22.5223292,
+    "center_longitude": 75.9195204,
+    "timestamp": "2025-06-14 11:31:21"
+  },
+  {
+    "sector_id": 545,
+    "drone_id": 1,
+    "center_latitude": 22.522104,
+    "center_longitude": 75.9195211,
+    "timestamp": "2025-06-14 11:31:26"
+  },
+  {
+    "sector_id": 546,
+    "drone_id": 1,
+    "center_latitude": 22.5218783,
+    "center_longitude": 75.9195209,
+    "timestamp": "2025-06-14 11:31:31"
+  },
+  {
+    "sector_id": 547,
+    "drone_id": 1,
+    "center_latitude": 22.5216533,
+    "center_longitude": 75.9195207,
+    "timestamp": "2025-06-14 11:31:36"
+  },
+  {
+    "sector_id": 548,
+    "drone_id": 1,
+    "center_latitude": 22.5214278,
+    "center_longitude": 75.9195204,
+    "timestamp": "2025-06-14 11:31:41"
+  },
+  {
+    "sector_id": 549,
+    "drone_id": 1,
+    "center_latitude": 22.5212023,
+    "center_longitude": 75.919521,
+    "timestamp": "2025-06-14 11:31:46"
+  },
+  {
+    "sector_id": 550,
+    "drone_id": 1,
+    "center_latitude": 22.5209773,
+    "center_longitude": 75.9195208,
+    "timestamp": "2025-06-14 11:31:51"
+  },
+  {
+    "sector_id": 551,
+    "drone_id": 1,
+    "center_latitude": 22.5207522,
+    "center_longitude": 75.9195208,
+    "timestamp": "2025-06-14 11:31:56"
+  },
+  {
+    "sector_id": 552,
+    "drone_id": 1,
+    "center_latitude": 22.5205267,
+    "center_longitude": 75.9195195,
+    "timestamp": "2025-06-14 11:32:01"
+  },
+  {
+    "sector_id": 553,
+    "drone_id": 1,
+    "center_latitude": 22.5203007,
+    "center_longitude": 75.91952,
+    "timestamp": "2025-06-14 11:32:06"
+  },
+  {
+    "sector_id": 554,
+    "drone_id": 1,
+    "center_latitude": 22.5200751,
+    "center_longitude": 75.9195205,
+    "timestamp": "2025-06-14 11:32:12"
+  },
+  {
+    "sector_id": 555,
+    "drone_id": 1,
+    "center_latitude": 22.5199739,
+    "center_longitude": 75.9197216,
+    "timestamp": "2025-06-14 11:32:20"
+  },
+  {
+    "sector_id": 556,
+    "drone_id": 1,
+    "center_latitude": 22.5201951,
+    "center_longitude": 75.9197661,
+    "timestamp": "2025-06-14 11:32:28"
+  },
+  {
+    "sector_id": 557,
+    "drone_id": 1,
+    "center_latitude": 22.5204202,
+    "center_longitude": 75.9197648,
+    "timestamp": "2025-06-14 11:32:34"
+  },
+  {
+    "sector_id": 558,
+    "drone_id": 1,
+    "center_latitude": 22.5206456,
+    "center_longitude": 75.9197642,
+    "timestamp": "2025-06-14 11:32:39"
+  },
+  {
+    "sector_id": 559,
+    "drone_id": 1,
+    "center_latitude": 22.5208707,
+    "center_longitude": 75.9197644,
+    "timestamp": "2025-06-14 11:32:44"
+  },
+  {
+    "sector_id": 560,
+    "drone_id": 1,
+    "center_latitude": 22.5210962,
+    "center_longitude": 75.919764,
+    "timestamp": "2025-06-14 11:32:49"
+  },
+  {
+    "sector_id": 561,
+    "drone_id": 1,
+    "center_latitude": 22.5213212,
+    "center_longitude": 75.9197641,
+    "timestamp": "2025-06-14 11:32:54"
+  },
+  {
+    "sector_id": 562,
+    "drone_id": 1,
+    "center_latitude": 22.5215463,
+    "center_longitude": 75.9197642,
+    "timestamp": "2025-06-14 11:32:59"
+  },
+  {
+    "sector_id": 563,
+    "drone_id": 1,
+    "center_latitude": 22.5217722,
+    "center_longitude": 75.9197645,
+    "timestamp": "2025-06-14 11:33:04"
+  },
+  {
+    "sector_id": 564,
+    "drone_id": 1,
+    "center_latitude": 22.5219975,
+    "center_longitude": 75.919764,
+    "timestamp": "2025-06-14 11:33:09"
+  },
+  {
+    "sector_id": 565,
+    "drone_id": 1,
+    "center_latitude": 22.5222231,
+    "center_longitude": 75.9197653,
+    "timestamp": "2025-06-14 11:33:14"
+  },
+  {
+    "sector_id": 566,
+    "drone_id": 1,
+    "center_latitude": 22.5224485,
+    "center_longitude": 75.9197644,
+    "timestamp": "2025-06-14 11:33:19"
+  },
+  {
+    "sector_id": 567,
+    "drone_id": 1,
+    "center_latitude": 22.5226736,
+    "center_longitude": 75.9197651,
+    "timestamp": "2025-06-14 11:33:24"
+  },
+  {
+    "sector_id": 568,
+    "drone_id": 1,
+    "center_latitude": 22.5228989,
+    "center_longitude": 75.9197643,
+    "timestamp": "2025-06-14 11:33:29"
+  },
+  {
+    "sector_id": 569,
+    "drone_id": 1,
+    "center_latitude": 22.5231245,
+    "center_longitude": 75.9197639,
+    "timestamp": "2025-06-14 11:33:34"
+  },
+  {
+    "sector_id": 570,
+    "drone_id": 1,
+    "center_latitude": 22.5233498,
+    "center_longitude": 75.9197644,
+    "timestamp": "2025-06-14 11:33:39"
+  },
+  {
+    "sector_id": 571,
+    "drone_id": 1,
+    "center_latitude": 22.5235748,
+    "center_longitude": 75.9197636,
+    "timestamp": "2025-06-14 11:33:44"
+  },
+  {
+    "sector_id": 572,
+    "drone_id": 1,
+    "center_latitude": 22.5238004,
+    "center_longitude": 75.9197634,
+    "timestamp": "2025-06-14 11:33:49"
+  },
+  {
+    "sector_id": 573,
+    "drone_id": 1,
+    "center_latitude": 22.5240256,
+    "center_longitude": 75.9197641,
+    "timestamp": "2025-06-14 11:33:54"
+  },
+  {
+    "sector_id": 574,
+    "drone_id": 1,
+    "center_latitude": 22.5242511,
+    "center_longitude": 75.9197646,
+    "timestamp": "2025-06-14 11:33:59"
+  },
+  {
+    "sector_id": 575,
+    "drone_id": 1,
+    "center_latitude": 22.5244762,
+    "center_longitude": 75.919764,
+    "timestamp": "2025-06-14 11:34:04"
+  },
+  {
+    "sector_id": 576,
+    "drone_id": 1,
+    "center_latitude": 22.5247016,
+    "center_longitude": 75.919764,
+    "timestamp": "2025-06-14 11:34:09"
+  },
+  {
+    "sector_id": 577,
+    "drone_id": 1,
+    "center_latitude": 22.5249266,
+    "center_longitude": 75.919764,
+    "timestamp": "2025-06-14 11:34:14"
+  },
+  {
+    "sector_id": 578,
+    "drone_id": 1,
+    "center_latitude": 22.5251522,
+    "center_longitude": 75.9197635,
+    "timestamp": "2025-06-14 11:34:19"
+  },
+  {
+    "sector_id": 579,
+    "drone_id": 1,
+    "center_latitude": 22.5253781,
+    "center_longitude": 75.9197643,
+    "timestamp": "2025-06-14 11:34:24"
+  },
+  {
+    "sector_id": 580,
+    "drone_id": 1,
+    "center_latitude": 22.5256035,
+    "center_longitude": 75.9197639,
+    "timestamp": "2025-06-14 11:34:29"
+  },
+  {
+    "sector_id": 581,
+    "drone_id": 1,
+    "center_latitude": 22.5258295,
+    "center_longitude": 75.9197641,
+    "timestamp": "2025-06-14 11:34:34"
+  },
+  {
+    "sector_id": 582,
+    "drone_id": 1,
+    "center_latitude": 22.5260545,
+    "center_longitude": 75.9197637,
+    "timestamp": "2025-06-14 11:34:39"
+  },
+  {
+    "sector_id": 583,
+    "drone_id": 1,
+    "center_latitude": 22.5262801,
+    "center_longitude": 75.9197642,
+    "timestamp": "2025-06-14 11:34:44"
+  },
+  {
+    "sector_id": 584,
+    "drone_id": 1,
+    "center_latitude": 22.5265051,
+    "center_longitude": 75.9197646,
+    "timestamp": "2025-06-14 11:34:49"
+  },
+  {
+    "sector_id": 585,
+    "drone_id": 1,
+    "center_latitude": 22.5267305,
+    "center_longitude": 75.9197647,
+    "timestamp": "2025-06-14 11:34:54"
+  },
+  {
+    "sector_id": 586,
+    "drone_id": 1,
+    "center_latitude": 22.5269557,
+    "center_longitude": 75.919764,
+    "timestamp": "2025-06-14 11:34:59"
+  },
+  {
+    "sector_id": 587,
+    "drone_id": 1,
+    "center_latitude": 22.5271809,
+    "center_longitude": 75.9197646,
+    "timestamp": "2025-06-14 11:35:04"
+  },
+  {
+    "sector_id": 588,
+    "drone_id": 1,
+    "center_latitude": 22.5274067,
+    "center_longitude": 75.9197655,
+    "timestamp": "2025-06-14 11:35:09"
+  },
+  {
+    "sector_id": 589,
+    "drone_id": 1,
+    "center_latitude": 22.5276318,
+    "center_longitude": 75.9197646,
+    "timestamp": "2025-06-14 11:35:14"
+  },
+  {
+    "sector_id": 590,
+    "drone_id": 1,
+    "center_latitude": 22.5278573,
+    "center_longitude": 75.9197636,
+    "timestamp": "2025-06-14 11:35:19"
+  },
+  {
+    "sector_id": 591,
+    "drone_id": 1,
+    "center_latitude": 22.5280393,
+    "center_longitude": 75.919897,
+    "timestamp": "2025-06-14 11:35:27"
+  },
+  {
+    "sector_id": 592,
+    "drone_id": 1,
+    "center_latitude": 22.5278445,
+    "center_longitude": 75.9200099,
+    "timestamp": "2025-06-14 11:35:38"
+  },
+  {
+    "sector_id": 593,
+    "drone_id": 1,
+    "center_latitude": 22.5276195,
+    "center_longitude": 75.920009,
+    "timestamp": "2025-06-14 11:35:43"
+  },
+  {
+    "sector_id": 594,
+    "drone_id": 1,
+    "center_latitude": 22.5273942,
+    "center_longitude": 75.9200082,
+    "timestamp": "2025-06-14 11:35:48"
+  },
+  {
+    "sector_id": 595,
+    "drone_id": 1,
+    "center_latitude": 22.5271687,
+    "center_longitude": 75.9200075,
+    "timestamp": "2025-06-14 11:35:53"
+  },
+  {
+    "sector_id": 596,
+    "drone_id": 1,
+    "center_latitude": 22.5269434,
+    "center_longitude": 75.9200079,
+    "timestamp": "2025-06-14 11:35:58"
+  },
+  {
+    "sector_id": 597,
+    "drone_id": 1,
+    "center_latitude": 22.5267182,
+    "center_longitude": 75.9200076,
+    "timestamp": "2025-06-14 11:36:03"
+  },
+  {
+    "sector_id": 598,
+    "drone_id": 1,
+    "center_latitude": 22.5264928,
+    "center_longitude": 75.9200071,
+    "timestamp": "2025-06-14 11:36:08"
+  },
+  {
+    "sector_id": 599,
+    "drone_id": 1,
+    "center_latitude": 22.5262675,
+    "center_longitude": 75.9200072,
+    "timestamp": "2025-06-14 11:36:13"
+  },
+  {
+    "sector_id": 600,
+    "drone_id": 1,
+    "center_latitude": 22.5260417,
+    "center_longitude": 75.920008,
+    "timestamp": "2025-06-14 11:36:18"
+  },
+  {
+    "sector_id": 601,
+    "drone_id": 1,
+    "center_latitude": 22.5258164,
+    "center_longitude": 75.920008,
+    "timestamp": "2025-06-14 11:36:23"
+  },
+  {
+    "sector_id": 602,
+    "drone_id": 1,
+    "center_latitude": 22.5255913,
+    "center_longitude": 75.920008,
+    "timestamp": "2025-06-14 11:36:28"
+  },
+  {
+    "sector_id": 603,
+    "drone_id": 1,
+    "center_latitude": 22.5253653,
+    "center_longitude": 75.9200078,
+    "timestamp": "2025-06-14 11:36:33"
+  },
+  {
+    "sector_id": 604,
+    "drone_id": 1,
+    "center_latitude": 22.5251401,
+    "center_longitude": 75.9200074,
+    "timestamp": "2025-06-14 11:36:38"
+  },
+  {
+    "sector_id": 605,
+    "drone_id": 1,
+    "center_latitude": 22.5249149,
+    "center_longitude": 75.9200079,
+    "timestamp": "2025-06-14 11:36:43"
+  },
+  {
+    "sector_id": 606,
+    "drone_id": 1,
+    "center_latitude": 22.5246893,
+    "center_longitude": 75.9200077,
+    "timestamp": "2025-06-14 11:36:48"
+  },
+  {
+    "sector_id": 607,
+    "drone_id": 1,
+    "center_latitude": 22.5244639,
+    "center_longitude": 75.9200078,
+    "timestamp": "2025-06-14 11:36:53"
+  },
+  {
+    "sector_id": 608,
+    "drone_id": 1,
+    "center_latitude": 22.5242388,
+    "center_longitude": 75.9200074,
+    "timestamp": "2025-06-14 11:36:58"
+  },
+  {
+    "sector_id": 609,
+    "drone_id": 1,
+    "center_latitude": 22.5240137,
+    "center_longitude": 75.9200073,
+    "timestamp": "2025-06-14 11:37:03"
+  },
+  {
+    "sector_id": 610,
+    "drone_id": 1,
+    "center_latitude": 22.5237886,
+    "center_longitude": 75.9200076,
+    "timestamp": "2025-06-14 11:37:08"
+  },
+  {
+    "sector_id": 611,
+    "drone_id": 1,
+    "center_latitude": 22.5235627,
+    "center_longitude": 75.9200087,
+    "timestamp": "2025-06-14 11:37:13"
+  },
+  {
+    "sector_id": 612,
+    "drone_id": 1,
+    "center_latitude": 22.5233374,
+    "center_longitude": 75.9200076,
+    "timestamp": "2025-06-14 11:37:18"
+  },
+  {
+    "sector_id": 613,
+    "drone_id": 1,
+    "center_latitude": 22.5231122,
+    "center_longitude": 75.9200071,
+    "timestamp": "2025-06-14 11:37:23"
+  },
+  {
+    "sector_id": 614,
+    "drone_id": 1,
+    "center_latitude": 22.5228863,
+    "center_longitude": 75.9200079,
+    "timestamp": "2025-06-14 11:37:28"
+  },
+  {
+    "sector_id": 615,
+    "drone_id": 1,
+    "center_latitude": 22.5226612,
+    "center_longitude": 75.9200075,
+    "timestamp": "2025-06-14 11:37:33"
+  },
+  {
+    "sector_id": 616,
+    "drone_id": 1,
+    "center_latitude": 22.5224354,
+    "center_longitude": 75.9200078,
+    "timestamp": "2025-06-14 11:37:38"
+  },
+  {
+    "sector_id": 617,
+    "drone_id": 1,
+    "center_latitude": 22.5222098,
+    "center_longitude": 75.9200075,
+    "timestamp": "2025-06-14 11:37:43"
+  },
+  {
+    "sector_id": 618,
+    "drone_id": 1,
+    "center_latitude": 22.5219846,
+    "center_longitude": 75.9200079,
+    "timestamp": "2025-06-14 11:37:48"
+  },
+  {
+    "sector_id": 619,
+    "drone_id": 1,
+    "center_latitude": 22.5217586,
+    "center_longitude": 75.9200075,
+    "timestamp": "2025-06-14 11:37:53"
+  },
+  {
+    "sector_id": 620,
+    "drone_id": 1,
+    "center_latitude": 22.5215332,
+    "center_longitude": 75.9200067,
+    "timestamp": "2025-06-14 11:37:58"
+  },
+  {
+    "sector_id": 621,
+    "drone_id": 1,
+    "center_latitude": 22.5213078,
+    "center_longitude": 75.9200071,
+    "timestamp": "2025-06-14 11:38:03"
+  },
+  {
+    "sector_id": 622,
+    "drone_id": 1,
+    "center_latitude": 22.5210824,
+    "center_longitude": 75.9200079,
+    "timestamp": "2025-06-14 11:38:08"
+  },
+  {
+    "sector_id": 623,
+    "drone_id": 1,
+    "center_latitude": 22.5208571,
+    "center_longitude": 75.9200071,
+    "timestamp": "2025-06-14 11:38:13"
+  },
+  {
+    "sector_id": 624,
+    "drone_id": 1,
+    "center_latitude": 22.5206321,
+    "center_longitude": 75.9200074,
+    "timestamp": "2025-06-14 11:38:18"
+  },
+  {
+    "sector_id": 625,
+    "drone_id": 1,
+    "center_latitude": 22.5204066,
+    "center_longitude": 75.9200082,
+    "timestamp": "2025-06-14 11:38:23"
+  },
+  {
+    "sector_id": 626,
+    "drone_id": 1,
+    "center_latitude": 22.5201816,
+    "center_longitude": 75.9200076,
+    "timestamp": "2025-06-14 11:38:28"
+  },
+  {
+    "sector_id": 627,
+    "drone_id": 1,
+    "center_latitude": 22.5199562,
+    "center_longitude": 75.9200074,
+    "timestamp": "2025-06-14 11:38:33"
+  },
+  {
+    "sector_id": 628,
+    "drone_id": 1,
+    "center_latitude": 22.519839,
+    "center_longitude": 75.9201999,
+    "timestamp": "2025-06-14 11:38:41"
+  },
+  {
+    "sector_id": 629,
+    "drone_id": 1,
+    "center_latitude": 22.5200576,
+    "center_longitude": 75.9202535,
+    "timestamp": "2025-06-14 11:38:50"
+  },
+  {
+    "sector_id": 630,
+    "drone_id": 1,
+    "center_latitude": 22.5202832,
+    "center_longitude": 75.9202514,
+    "timestamp": "2025-06-14 11:38:55"
+  },
+  {
+    "sector_id": 631,
+    "drone_id": 1,
+    "center_latitude": 22.520509,
+    "center_longitude": 75.9202514,
+    "timestamp": "2025-06-14 11:39:00"
+  },
+  {
+    "sector_id": 632,
+    "drone_id": 1,
+    "center_latitude": 22.5207344,
+    "center_longitude": 75.9202513,
+    "timestamp": "2025-06-14 11:39:05"
+  },
+  {
+    "sector_id": 633,
+    "drone_id": 1,
+    "center_latitude": 22.5209596,
+    "center_longitude": 75.920251,
+    "timestamp": "2025-06-14 11:39:10"
+  },
+  {
+    "sector_id": 634,
+    "drone_id": 1,
+    "center_latitude": 22.5211847,
+    "center_longitude": 75.9202513,
+    "timestamp": "2025-06-14 11:39:15"
+  },
+  {
+    "sector_id": 635,
+    "drone_id": 1,
+    "center_latitude": 22.5214106,
+    "center_longitude": 75.920251,
+    "timestamp": "2025-06-14 11:39:20"
+  },
+  {
+    "sector_id": 636,
+    "drone_id": 1,
+    "center_latitude": 22.5216359,
+    "center_longitude": 75.9202511,
+    "timestamp": "2025-06-14 11:39:25"
+  },
+  {
+    "sector_id": 637,
+    "drone_id": 1,
+    "center_latitude": 22.521861,
+    "center_longitude": 75.9202506,
+    "timestamp": "2025-06-14 11:39:30"
+  },
+  {
+    "sector_id": 638,
+    "drone_id": 1,
+    "center_latitude": 22.5220864,
+    "center_longitude": 75.9202511,
+    "timestamp": "2025-06-14 11:39:35"
+  },
+  {
+    "sector_id": 639,
+    "drone_id": 1,
+    "center_latitude": 22.5223119,
+    "center_longitude": 75.920251,
+    "timestamp": "2025-06-14 11:39:40"
+  },
+  {
+    "sector_id": 640,
+    "drone_id": 1,
+    "center_latitude": 22.5225371,
+    "center_longitude": 75.9202513,
+    "timestamp": "2025-06-14 11:39:45"
+  },
+  {
+    "sector_id": 641,
+    "drone_id": 1,
+    "center_latitude": 22.5227622,
+    "center_longitude": 75.9202513,
+    "timestamp": "2025-06-14 11:39:50"
+  },
+  {
+    "sector_id": 642,
+    "drone_id": 1,
+    "center_latitude": 22.5229875,
+    "center_longitude": 75.9202509,
+    "timestamp": "2025-06-14 11:39:55"
+  },
+  {
+    "sector_id": 643,
+    "drone_id": 1,
+    "center_latitude": 22.5232128,
+    "center_longitude": 75.9202511,
+    "timestamp": "2025-06-14 11:40:00"
+  },
+  {
+    "sector_id": 644,
+    "drone_id": 1,
+    "center_latitude": 22.523438,
+    "center_longitude": 75.9202513,
+    "timestamp": "2025-06-14 11:40:05"
+  },
+  {
+    "sector_id": 645,
+    "drone_id": 1,
+    "center_latitude": 22.5236636,
+    "center_longitude": 75.9202511,
+    "timestamp": "2025-06-14 11:40:10"
+  },
+  {
+    "sector_id": 646,
+    "drone_id": 1,
+    "center_latitude": 22.5238887,
+    "center_longitude": 75.9202507,
+    "timestamp": "2025-06-14 11:40:15"
+  },
+  {
+    "sector_id": 647,
+    "drone_id": 1,
+    "center_latitude": 22.5241138,
+    "center_longitude": 75.920251,
+    "timestamp": "2025-06-14 11:40:20"
+  },
+  {
+    "sector_id": 648,
+    "drone_id": 1,
+    "center_latitude": 22.5243397,
+    "center_longitude": 75.920251,
+    "timestamp": "2025-06-14 11:40:25"
+  },
+  {
+    "sector_id": 649,
+    "drone_id": 1,
+    "center_latitude": 22.5245654,
+    "center_longitude": 75.9202509,
+    "timestamp": "2025-06-14 11:40:30"
+  },
+  {
+    "sector_id": 650,
+    "drone_id": 1,
+    "center_latitude": 22.5247909,
+    "center_longitude": 75.9202512,
+    "timestamp": "2025-06-14 11:40:35"
+  },
+  {
+    "sector_id": 651,
+    "drone_id": 1,
+    "center_latitude": 22.5250165,
+    "center_longitude": 75.9202509,
+    "timestamp": "2025-06-14 11:40:40"
+  },
+  {
+    "sector_id": 652,
+    "drone_id": 1,
+    "center_latitude": 22.5252424,
+    "center_longitude": 75.920251,
+    "timestamp": "2025-06-14 11:40:45"
+  },
+  {
+    "sector_id": 653,
+    "drone_id": 1,
+    "center_latitude": 22.5254678,
+    "center_longitude": 75.9202518,
+    "timestamp": "2025-06-14 11:40:50"
+  },
+  {
+    "sector_id": 654,
+    "drone_id": 1,
+    "center_latitude": 22.5256934,
+    "center_longitude": 75.9202516,
+    "timestamp": "2025-06-14 11:40:55"
+  },
+  {
+    "sector_id": 655,
+    "drone_id": 1,
+    "center_latitude": 22.5259188,
+    "center_longitude": 75.9202517,
+    "timestamp": "2025-06-14 11:41:00"
+  },
+  {
+    "sector_id": 656,
+    "drone_id": 1,
+    "center_latitude": 22.5261439,
+    "center_longitude": 75.920251,
+    "timestamp": "2025-06-14 11:41:05"
+  },
+  {
+    "sector_id": 657,
+    "drone_id": 1,
+    "center_latitude": 22.5263693,
+    "center_longitude": 75.9202511,
+    "timestamp": "2025-06-14 11:41:10"
+  },
+  {
+    "sector_id": 658,
+    "drone_id": 1,
+    "center_latitude": 22.5265949,
+    "center_longitude": 75.920251,
+    "timestamp": "2025-06-14 11:41:15"
+  },
+  {
+    "sector_id": 659,
+    "drone_id": 1,
+    "center_latitude": 22.5268202,
+    "center_longitude": 75.9202506,
+    "timestamp": "2025-06-14 11:41:20"
+  },
+  {
+    "sector_id": 660,
+    "drone_id": 1,
+    "center_latitude": 22.5270457,
+    "center_longitude": 75.9202512,
+    "timestamp": "2025-06-14 11:41:25"
+  },
+  {
+    "sector_id": 661,
+    "drone_id": 1,
+    "center_latitude": 22.5272714,
+    "center_longitude": 75.9202514,
+    "timestamp": "2025-06-14 11:41:30"
+  },
+  {
+    "sector_id": 662,
+    "drone_id": 1,
+    "center_latitude": 22.5274965,
+    "center_longitude": 75.9202513,
+    "timestamp": "2025-06-14 11:41:35"
+  },
+  {
+    "sector_id": 663,
+    "drone_id": 1,
+    "center_latitude": 22.5277216,
+    "center_longitude": 75.9202511,
+    "timestamp": "2025-06-14 11:41:40"
+  },
+  {
+    "sector_id": 664,
+    "drone_id": 1,
+    "center_latitude": 22.5279466,
+    "center_longitude": 75.9202512,
+    "timestamp": "2025-06-14 11:41:45"
+  },
+  {
+    "sector_id": 665,
+    "drone_id": 1,
+    "center_latitude": 22.5281713,
+    "center_longitude": 75.9202624,
+    "timestamp": "2025-06-14 11:41:52"
+  },
+  {
+    "sector_id": 666,
+    "drone_id": 1,
+    "center_latitude": 22.5282236,
+    "center_longitude": 75.9204813,
+    "timestamp": "2025-06-14 11:41:59"
+  },
+  {
+    "sector_id": 667,
+    "drone_id": 1,
+    "center_latitude": 22.5279987,
+    "center_longitude": 75.9204972,
+    "timestamp": "2025-06-14 11:42:06"
+  },
+  {
+    "sector_id": 668,
+    "drone_id": 1,
+    "center_latitude": 22.5277731,
+    "center_longitude": 75.9204959,
+    "timestamp": "2025-06-14 11:42:11"
+  },
+  {
+    "sector_id": 669,
+    "drone_id": 1,
+    "center_latitude": 22.5275472,
+    "center_longitude": 75.9204954,
+    "timestamp": "2025-06-14 11:42:16"
+  },
+  {
+    "sector_id": 670,
+    "drone_id": 1,
+    "center_latitude": 22.5273219,
+    "center_longitude": 75.9204946,
+    "timestamp": "2025-06-14 11:42:21"
+  },
+  {
+    "sector_id": 671,
+    "drone_id": 1,
+    "center_latitude": 22.5270966,
+    "center_longitude": 75.9204944,
+    "timestamp": "2025-06-14 11:42:26"
+  },
+  {
+    "sector_id": 672,
+    "drone_id": 1,
+    "center_latitude": 22.5268714,
+    "center_longitude": 75.9204946,
+    "timestamp": "2025-06-14 11:42:31"
+  },
+  {
+    "sector_id": 673,
+    "drone_id": 1,
+    "center_latitude": 22.5266457,
+    "center_longitude": 75.9204948,
+    "timestamp": "2025-06-14 11:42:36"
+  },
+  {
+    "sector_id": 674,
+    "drone_id": 1,
+    "center_latitude": 22.5264206,
+    "center_longitude": 75.920495,
+    "timestamp": "2025-06-14 11:42:41"
+  },
+  {
+    "sector_id": 675,
+    "drone_id": 1,
+    "center_latitude": 22.5261951,
+    "center_longitude": 75.9204947,
+    "timestamp": "2025-06-14 11:42:46"
+  },
+  {
+    "sector_id": 676,
+    "drone_id": 1,
+    "center_latitude": 22.5259692,
+    "center_longitude": 75.9204937,
+    "timestamp": "2025-06-14 11:42:51"
+  },
+  {
+    "sector_id": 677,
+    "drone_id": 1,
+    "center_latitude": 22.5257442,
+    "center_longitude": 75.920494,
+    "timestamp": "2025-06-14 11:42:56"
+  },
+  {
+    "sector_id": 678,
+    "drone_id": 1,
+    "center_latitude": 22.5255192,
+    "center_longitude": 75.9204946,
+    "timestamp": "2025-06-14 11:43:01"
+  },
+  {
+    "sector_id": 679,
+    "drone_id": 1,
+    "center_latitude": 22.5252937,
+    "center_longitude": 75.9204951,
+    "timestamp": "2025-06-14 11:43:06"
+  },
+  {
+    "sector_id": 680,
+    "drone_id": 1,
+    "center_latitude": 22.5250683,
+    "center_longitude": 75.9204943,
+    "timestamp": "2025-06-14 11:43:11"
+  },
+  {
+    "sector_id": 681,
+    "drone_id": 1,
+    "center_latitude": 22.5248427,
+    "center_longitude": 75.9204944,
+    "timestamp": "2025-06-14 11:43:16"
+  },
+  {
+    "sector_id": 682,
+    "drone_id": 1,
+    "center_latitude": 22.524617,
+    "center_longitude": 75.9204949,
+    "timestamp": "2025-06-14 11:43:21"
+  },
+  {
+    "sector_id": 683,
+    "drone_id": 1,
+    "center_latitude": 22.524392,
+    "center_longitude": 75.9204944,
+    "timestamp": "2025-06-14 11:43:26"
+  },
+  {
+    "sector_id": 684,
+    "drone_id": 1,
+    "center_latitude": 22.5241665,
+    "center_longitude": 75.9204938,
+    "timestamp": "2025-06-14 11:43:31"
+  },
+  {
+    "sector_id": 685,
+    "drone_id": 1,
+    "center_latitude": 22.5239408,
+    "center_longitude": 75.9204943,
+    "timestamp": "2025-06-14 11:43:36"
+  },
+  {
+    "sector_id": 686,
+    "drone_id": 1,
+    "center_latitude": 22.5237158,
+    "center_longitude": 75.9204941,
+    "timestamp": "2025-06-14 11:43:41"
+  },
+  {
+    "sector_id": 687,
+    "drone_id": 1,
+    "center_latitude": 22.5234905,
+    "center_longitude": 75.9204947,
+    "timestamp": "2025-06-14 11:43:46"
+  },
+  {
+    "sector_id": 688,
+    "drone_id": 1,
+    "center_latitude": 22.5232653,
+    "center_longitude": 75.9204948,
+    "timestamp": "2025-06-14 11:43:51"
+  },
+  {
+    "sector_id": 689,
+    "drone_id": 1,
+    "center_latitude": 22.5230394,
+    "center_longitude": 75.9204939,
+    "timestamp": "2025-06-14 11:43:56"
+  },
+  {
+    "sector_id": 690,
+    "drone_id": 1,
+    "center_latitude": 22.522814,
+    "center_longitude": 75.9204943,
+    "timestamp": "2025-06-14 11:44:01"
+  },
+  {
+    "sector_id": 691,
+    "drone_id": 1,
+    "center_latitude": 22.5225882,
+    "center_longitude": 75.9204941,
+    "timestamp": "2025-06-14 11:44:06"
+  },
+  {
+    "sector_id": 692,
+    "drone_id": 1,
+    "center_latitude": 22.5223627,
+    "center_longitude": 75.9204944,
+    "timestamp": "2025-06-14 11:44:11"
+  },
+  {
+    "sector_id": 693,
+    "drone_id": 1,
+    "center_latitude": 22.522137,
+    "center_longitude": 75.9204937,
+    "timestamp": "2025-06-14 11:44:16"
+  },
+  {
+    "sector_id": 694,
+    "drone_id": 1,
+    "center_latitude": 22.5219114,
+    "center_longitude": 75.9204947,
+    "timestamp": "2025-06-14 11:44:21"
+  },
+  {
+    "sector_id": 695,
+    "drone_id": 1,
+    "center_latitude": 22.5216863,
+    "center_longitude": 75.920495,
+    "timestamp": "2025-06-14 11:44:26"
+  },
+  {
+    "sector_id": 696,
+    "drone_id": 1,
+    "center_latitude": 22.5214605,
+    "center_longitude": 75.9204945,
+    "timestamp": "2025-06-14 11:44:31"
+  },
+  {
+    "sector_id": 697,
+    "drone_id": 1,
+    "center_latitude": 22.5212349,
+    "center_longitude": 75.9204938,
+    "timestamp": "2025-06-14 11:44:36"
+  },
+  {
+    "sector_id": 698,
+    "drone_id": 1,
+    "center_latitude": 22.5210089,
+    "center_longitude": 75.9204943,
+    "timestamp": "2025-06-14 11:44:41"
+  },
+  {
+    "sector_id": 699,
+    "drone_id": 1,
+    "center_latitude": 22.520783,
+    "center_longitude": 75.9204943,
+    "timestamp": "2025-06-14 11:44:46"
+  },
+  {
+    "sector_id": 700,
+    "drone_id": 1,
+    "center_latitude": 22.5205571,
+    "center_longitude": 75.9204944,
+    "timestamp": "2025-06-14 11:44:51"
+  },
+  {
+    "sector_id": 701,
+    "drone_id": 1,
+    "center_latitude": 22.5203321,
+    "center_longitude": 75.9204938,
+    "timestamp": "2025-06-14 11:44:56"
+  },
+  {
+    "sector_id": 702,
+    "drone_id": 1,
+    "center_latitude": 22.5201061,
+    "center_longitude": 75.9204935,
+    "timestamp": "2025-06-14 11:45:01"
+  },
+  {
+    "sector_id": 703,
+    "drone_id": 1,
+    "center_latitude": 22.5198806,
+    "center_longitude": 75.920494,
+    "timestamp": "2025-06-14 11:45:06"
+  },
+  {
+    "sector_id": 704,
+    "drone_id": 1,
+    "center_latitude": 22.5196909,
+    "center_longitude": 75.9206155,
+    "timestamp": "2025-06-14 11:45:14"
+  },
+  {
+    "sector_id": 705,
+    "drone_id": 1,
+    "center_latitude": 22.5198782,
+    "center_longitude": 75.9207401,
+    "timestamp": "2025-06-14 11:45:25"
+  },
+  {
+    "sector_id": 706,
+    "drone_id": 1,
+    "center_latitude": 22.5201033,
+    "center_longitude": 75.9207389,
+    "timestamp": "2025-06-14 11:45:30"
+  },
+  {
+    "sector_id": 707,
+    "drone_id": 1,
+    "center_latitude": 22.5203286,
+    "center_longitude": 75.9207377,
+    "timestamp": "2025-06-14 11:45:35"
+  },
+  {
+    "sector_id": 708,
+    "drone_id": 1,
+    "center_latitude": 22.5205543,
+    "center_longitude": 75.920738,
+    "timestamp": "2025-06-14 11:45:40"
+  },
+  {
+    "sector_id": 709,
+    "drone_id": 1,
+    "center_latitude": 22.5207793,
+    "center_longitude": 75.9207373,
+    "timestamp": "2025-06-14 11:45:45"
+  },
+  {
+    "sector_id": 710,
+    "drone_id": 1,
+    "center_latitude": 22.5210046,
+    "center_longitude": 75.9207382,
+    "timestamp": "2025-06-14 11:45:50"
+  },
+  {
+    "sector_id": 711,
+    "drone_id": 1,
+    "center_latitude": 22.5212299,
+    "center_longitude": 75.9207381,
+    "timestamp": "2025-06-14 11:45:55"
+  },
+  {
+    "sector_id": 712,
+    "drone_id": 1,
+    "center_latitude": 22.5214557,
+    "center_longitude": 75.9207374,
+    "timestamp": "2025-06-14 11:46:00"
+  },
+  {
+    "sector_id": 713,
+    "drone_id": 1,
+    "center_latitude": 22.521681,
+    "center_longitude": 75.9207372,
+    "timestamp": "2025-06-14 11:46:05"
+  },
+  {
+    "sector_id": 714,
+    "drone_id": 1,
+    "center_latitude": 22.5219069,
+    "center_longitude": 75.9207375,
+    "timestamp": "2025-06-14 11:46:10"
+  },
+  {
+    "sector_id": 715,
+    "drone_id": 1,
+    "center_latitude": 22.5221325,
+    "center_longitude": 75.9207375,
+    "timestamp": "2025-06-14 11:46:15"
+  },
+  {
+    "sector_id": 716,
+    "drone_id": 1,
+    "center_latitude": 22.5223579,
+    "center_longitude": 75.9207376,
+    "timestamp": "2025-06-14 11:46:20"
+  },
+  {
+    "sector_id": 717,
+    "drone_id": 1,
+    "center_latitude": 22.5225832,
+    "center_longitude": 75.9207385,
+    "timestamp": "2025-06-14 11:46:26"
+  },
+  {
+    "sector_id": 718,
+    "drone_id": 1,
+    "center_latitude": 22.5228088,
+    "center_longitude": 75.9207375,
+    "timestamp": "2025-06-14 11:46:31"
+  },
+  {
+    "sector_id": 719,
+    "drone_id": 1,
+    "center_latitude": 22.5230338,
+    "center_longitude": 75.9207379,
+    "timestamp": "2025-06-14 11:46:36"
+  },
+  {
+    "sector_id": 720,
+    "drone_id": 1,
+    "center_latitude": 22.523259,
+    "center_longitude": 75.9207379,
+    "timestamp": "2025-06-14 11:46:41"
+  },
+  {
+    "sector_id": 721,
+    "drone_id": 1,
+    "center_latitude": 22.5234849,
+    "center_longitude": 75.920737,
+    "timestamp": "2025-06-14 11:46:46"
+  },
+  {
+    "sector_id": 722,
+    "drone_id": 1,
+    "center_latitude": 22.5237102,
+    "center_longitude": 75.9207372,
+    "timestamp": "2025-06-14 11:46:51"
+  },
+  {
+    "sector_id": 723,
+    "drone_id": 1,
+    "center_latitude": 22.5239352,
+    "center_longitude": 75.9207376,
+    "timestamp": "2025-06-14 11:46:56"
+  },
+  {
+    "sector_id": 724,
+    "drone_id": 1,
+    "center_latitude": 22.5241603,
+    "center_longitude": 75.9207376,
+    "timestamp": "2025-06-14 11:47:01"
+  },
+  {
+    "sector_id": 725,
+    "drone_id": 1,
+    "center_latitude": 22.5243858,
+    "center_longitude": 75.9207378,
+    "timestamp": "2025-06-14 11:47:06"
+  },
+  {
+    "sector_id": 726,
+    "drone_id": 1,
+    "center_latitude": 22.5246114,
+    "center_longitude": 75.9207375,
+    "timestamp": "2025-06-14 11:47:11"
+  },
+  {
+    "sector_id": 727,
+    "drone_id": 1,
+    "center_latitude": 22.5248366,
+    "center_longitude": 75.9207372,
+    "timestamp": "2025-06-14 11:47:16"
+  },
+  {
+    "sector_id": 728,
+    "drone_id": 1,
+    "center_latitude": 22.525062,
+    "center_longitude": 75.9207375,
+    "timestamp": "2025-06-14 11:47:21"
+  },
+  {
+    "sector_id": 729,
+    "drone_id": 1,
+    "center_latitude": 22.5252875,
+    "center_longitude": 75.9207386,
+    "timestamp": "2025-06-14 11:47:26"
+  },
+  {
+    "sector_id": 730,
+    "drone_id": 1,
+    "center_latitude": 22.5255129,
+    "center_longitude": 75.920738,
+    "timestamp": "2025-06-14 11:47:31"
+  },
+  {
+    "sector_id": 731,
+    "drone_id": 1,
+    "center_latitude": 22.5257389,
+    "center_longitude": 75.9207381,
+    "timestamp": "2025-06-14 11:47:36"
+  },
+  {
+    "sector_id": 732,
+    "drone_id": 1,
+    "center_latitude": 22.5259647,
+    "center_longitude": 75.920738,
+    "timestamp": "2025-06-14 11:47:41"
+  },
+  {
+    "sector_id": 733,
+    "drone_id": 1,
+    "center_latitude": 22.52619,
+    "center_longitude": 75.9207382,
+    "timestamp": "2025-06-14 11:47:46"
+  },
+  {
+    "sector_id": 734,
+    "drone_id": 1,
+    "center_latitude": 22.5264157,
+    "center_longitude": 75.9207383,
+    "timestamp": "2025-06-14 11:47:51"
+  },
+  {
+    "sector_id": 735,
+    "drone_id": 1,
+    "center_latitude": 22.5266413,
+    "center_longitude": 75.9207383,
+    "timestamp": "2025-06-14 11:47:56"
+  },
+  {
+    "sector_id": 736,
+    "drone_id": 1,
+    "center_latitude": 22.5268664,
+    "center_longitude": 75.9207372,
+    "timestamp": "2025-06-14 11:48:01"
+  },
+  {
+    "sector_id": 737,
+    "drone_id": 1,
+    "center_latitude": 22.5270918,
+    "center_longitude": 75.9207374,
+    "timestamp": "2025-06-14 11:48:06"
+  },
+  {
+    "sector_id": 738,
+    "drone_id": 1,
+    "center_latitude": 22.5273169,
+    "center_longitude": 75.9207379,
+    "timestamp": "2025-06-14 11:48:11"
+  },
+  {
+    "sector_id": 739,
+    "drone_id": 1,
+    "center_latitude": 22.5275421,
+    "center_longitude": 75.9207387,
+    "timestamp": "2025-06-14 11:48:16"
+  },
+  {
+    "sector_id": 740,
+    "drone_id": 1,
+    "center_latitude": 22.5277678,
+    "center_longitude": 75.9207377,
+    "timestamp": "2025-06-14 11:48:21"
+  },
+  {
+    "sector_id": 741,
+    "drone_id": 1,
+    "center_latitude": 22.5279938,
+    "center_longitude": 75.9207377,
+    "timestamp": "2025-06-14 11:48:26"
+  },
+  {
+    "sector_id": 742,
+    "drone_id": 1,
+    "center_latitude": 22.5282195,
+    "center_longitude": 75.920738,
+    "timestamp": "2025-06-14 11:48:31"
+  },
+  {
+    "sector_id": 743,
+    "drone_id": 1,
+    "center_latitude": 22.5280047,
+    "center_longitude": 75.920807,
+    "timestamp": "2025-06-14 11:48:42"
+  },
+  {
+    "sector_id": 744,
+    "drone_id": 1,
+    "center_latitude": 22.5277856,
+    "center_longitude": 75.9208594,
+    "timestamp": "2025-06-14 11:48:47"
+  },
+  {
+    "sector_id": 745,
+    "drone_id": 1,
+    "center_latitude": 22.5275665,
+    "center_longitude": 75.9209113,
+    "timestamp": "2025-06-14 11:48:52"
+  },
+  {
+    "sector_id": 746,
+    "drone_id": 1,
+    "center_latitude": 22.5273467,
+    "center_longitude": 75.920963,
+    "timestamp": "2025-06-14 11:48:57"
+  },
+  {
+    "sector_id": 747,
+    "drone_id": 1,
+    "center_latitude": 22.5271215,
+    "center_longitude": 75.9209819,
+    "timestamp": "2025-06-14 11:49:03"
+  },
+  {
+    "sector_id": 748,
+    "drone_id": 1,
+    "center_latitude": 22.5268962,
+    "center_longitude": 75.9209818,
+    "timestamp": "2025-06-14 11:49:08"
+  },
+  {
+    "sector_id": 749,
+    "drone_id": 1,
+    "center_latitude": 22.5266712,
+    "center_longitude": 75.9209819,
+    "timestamp": "2025-06-14 11:49:13"
+  },
+  {
+    "sector_id": 750,
+    "drone_id": 1,
+    "center_latitude": 22.5264457,
+    "center_longitude": 75.9209815,
+    "timestamp": "2025-06-14 11:49:18"
+  },
+  {
+    "sector_id": 751,
+    "drone_id": 1,
+    "center_latitude": 22.52622,
+    "center_longitude": 75.9209818,
+    "timestamp": "2025-06-14 11:49:23"
+  },
+  {
+    "sector_id": 752,
+    "drone_id": 1,
+    "center_latitude": 22.5259949,
+    "center_longitude": 75.9209815,
+    "timestamp": "2025-06-14 11:49:28"
+  },
+  {
+    "sector_id": 753,
+    "drone_id": 1,
+    "center_latitude": 22.5257689,
+    "center_longitude": 75.920981,
+    "timestamp": "2025-06-14 11:49:33"
+  },
+  {
+    "sector_id": 754,
+    "drone_id": 1,
+    "center_latitude": 22.5255434,
+    "center_longitude": 75.9209803,
+    "timestamp": "2025-06-14 11:49:38"
+  },
+  {
+    "sector_id": 755,
+    "drone_id": 1,
+    "center_latitude": 22.5253175,
+    "center_longitude": 75.9209814,
+    "timestamp": "2025-06-14 11:49:43"
+  },
+  {
+    "sector_id": 756,
+    "drone_id": 1,
+    "center_latitude": 22.5250924,
+    "center_longitude": 75.9209818,
+    "timestamp": "2025-06-14 11:49:48"
+  },
+  {
+    "sector_id": 757,
+    "drone_id": 1,
+    "center_latitude": 22.5248672,
+    "center_longitude": 75.9209827,
+    "timestamp": "2025-06-14 11:49:53"
+  },
+  {
+    "sector_id": 758,
+    "drone_id": 1,
+    "center_latitude": 22.5246422,
+    "center_longitude": 75.9209813,
+    "timestamp": "2025-06-14 11:49:58"
+  },
+  {
+    "sector_id": 759,
+    "drone_id": 1,
+    "center_latitude": 22.5244166,
+    "center_longitude": 75.9209814,
+    "timestamp": "2025-06-14 11:50:03"
+  },
+  {
+    "sector_id": 760,
+    "drone_id": 1,
+    "center_latitude": 22.5241909,
+    "center_longitude": 75.9209812,
+    "timestamp": "2025-06-14 11:50:08"
+  },
+  {
+    "sector_id": 761,
+    "drone_id": 1,
+    "center_latitude": 22.5239658,
+    "center_longitude": 75.9209814,
+    "timestamp": "2025-06-14 11:50:13"
+  },
+  {
+    "sector_id": 762,
+    "drone_id": 1,
+    "center_latitude": 22.5237407,
+    "center_longitude": 75.9209815,
+    "timestamp": "2025-06-14 11:50:18"
+  },
+  {
+    "sector_id": 763,
+    "drone_id": 1,
+    "center_latitude": 22.5235148,
+    "center_longitude": 75.9209809,
+    "timestamp": "2025-06-14 11:50:23"
+  },
+  {
+    "sector_id": 764,
+    "drone_id": 1,
+    "center_latitude": 22.5232892,
+    "center_longitude": 75.9209803,
+    "timestamp": "2025-06-14 11:50:28"
+  },
+  {
+    "sector_id": 765,
+    "drone_id": 1,
+    "center_latitude": 22.5230633,
+    "center_longitude": 75.9209814,
+    "timestamp": "2025-06-14 11:50:33"
+  },
+  {
+    "sector_id": 766,
+    "drone_id": 1,
+    "center_latitude": 22.5228381,
+    "center_longitude": 75.9209812,
+    "timestamp": "2025-06-14 11:50:38"
+  },
+  {
+    "sector_id": 767,
+    "drone_id": 1,
+    "center_latitude": 22.5226122,
+    "center_longitude": 75.9209802,
+    "timestamp": "2025-06-14 11:50:43"
+  },
+  {
+    "sector_id": 768,
+    "drone_id": 1,
+    "center_latitude": 22.5223867,
+    "center_longitude": 75.920981,
+    "timestamp": "2025-06-14 11:50:48"
+  },
+  {
+    "sector_id": 769,
+    "drone_id": 1,
+    "center_latitude": 22.5221617,
+    "center_longitude": 75.9209815,
+    "timestamp": "2025-06-14 11:50:53"
+  },
+  {
+    "sector_id": 770,
+    "drone_id": 1,
+    "center_latitude": 22.5219367,
+    "center_longitude": 75.9209812,
+    "timestamp": "2025-06-14 11:50:58"
+  },
+  {
+    "sector_id": 771,
+    "drone_id": 1,
+    "center_latitude": 22.5217108,
+    "center_longitude": 75.9209819,
+    "timestamp": "2025-06-14 11:51:03"
+  },
+  {
+    "sector_id": 772,
+    "drone_id": 1,
+    "center_latitude": 22.521485,
+    "center_longitude": 75.9209807,
+    "timestamp": "2025-06-14 11:51:08"
+  },
+  {
+    "sector_id": 773,
+    "drone_id": 1,
+    "center_latitude": 22.52126,
+    "center_longitude": 75.9209804,
+    "timestamp": "2025-06-14 11:51:13"
+  },
+  {
+    "sector_id": 774,
+    "drone_id": 1,
+    "center_latitude": 22.521034,
+    "center_longitude": 75.9209808,
+    "timestamp": "2025-06-14 11:51:18"
+  },
+  {
+    "sector_id": 775,
+    "drone_id": 1,
+    "center_latitude": 22.520809,
+    "center_longitude": 75.9209813,
+    "timestamp": "2025-06-14 11:51:23"
+  },
+  {
+    "sector_id": 776,
+    "drone_id": 1,
+    "center_latitude": 22.5205833,
+    "center_longitude": 75.9209812,
+    "timestamp": "2025-06-14 11:51:28"
+  },
+  {
+    "sector_id": 777,
+    "drone_id": 1,
+    "center_latitude": 22.5203582,
+    "center_longitude": 75.9209808,
+    "timestamp": "2025-06-14 11:51:33"
+  },
+  {
+    "sector_id": 778,
+    "drone_id": 1,
+    "center_latitude": 22.5201322,
+    "center_longitude": 75.920981,
+    "timestamp": "2025-06-14 11:51:38"
+  },
+  {
+    "sector_id": 779,
+    "drone_id": 1,
+    "center_latitude": 22.5199067,
+    "center_longitude": 75.9209806,
+    "timestamp": "2025-06-14 11:51:43"
+  },
+  {
+    "sector_id": 780,
+    "drone_id": 1,
+    "center_latitude": 22.5196816,
+    "center_longitude": 75.9209805,
+    "timestamp": "2025-06-14 11:51:48"
+  },
+  {
+    "sector_id": 781,
+    "drone_id": 1,
+    "center_latitude": 22.5195076,
+    "center_longitude": 75.9211238,
+    "timestamp": "2025-06-14 11:51:56"
+  },
+  {
+    "sector_id": 782,
+    "drone_id": 1,
+    "center_latitude": 22.5197075,
+    "center_longitude": 75.9212272,
+    "timestamp": "2025-06-14 11:52:06"
+  },
+  {
+    "sector_id": 783,
+    "drone_id": 1,
+    "center_latitude": 22.5199326,
+    "center_longitude": 75.9212252,
+    "timestamp": "2025-06-14 11:52:11"
+  },
+  {
+    "sector_id": 784,
+    "drone_id": 1,
+    "center_latitude": 22.520158,
+    "center_longitude": 75.9212241,
+    "timestamp": "2025-06-14 11:52:16"
+  },
+  {
+    "sector_id": 785,
+    "drone_id": 1,
+    "center_latitude": 22.5203835,
+    "center_longitude": 75.9212247,
+    "timestamp": "2025-06-14 11:52:22"
+  },
+  {
+    "sector_id": 786,
+    "drone_id": 1,
+    "center_latitude": 22.5206094,
+    "center_longitude": 75.9212246,
+    "timestamp": "2025-06-14 11:52:27"
+  },
+  {
+    "sector_id": 787,
+    "drone_id": 1,
+    "center_latitude": 22.5208345,
+    "center_longitude": 75.9212245,
+    "timestamp": "2025-06-14 11:52:32"
+  },
+  {
+    "sector_id": 788,
+    "drone_id": 1,
+    "center_latitude": 22.5210599,
+    "center_longitude": 75.9212241,
+    "timestamp": "2025-06-14 11:52:37"
+  },
+  {
+    "sector_id": 789,
+    "drone_id": 1,
+    "center_latitude": 22.5212859,
+    "center_longitude": 75.9212241,
+    "timestamp": "2025-06-14 11:52:42"
+  },
+  {
+    "sector_id": 790,
+    "drone_id": 1,
+    "center_latitude": 22.5215115,
+    "center_longitude": 75.9212242,
+    "timestamp": "2025-06-14 11:52:47"
+  },
+  {
+    "sector_id": 791,
+    "drone_id": 1,
+    "center_latitude": 22.5217374,
+    "center_longitude": 75.9212247,
+    "timestamp": "2025-06-14 11:52:52"
+  },
+  {
+    "sector_id": 792,
+    "drone_id": 1,
+    "center_latitude": 22.5219628,
+    "center_longitude": 75.9212245,
+    "timestamp": "2025-06-14 11:52:57"
+  },
+  {
+    "sector_id": 793,
+    "drone_id": 1,
+    "center_latitude": 22.5221884,
+    "center_longitude": 75.9212244,
+    "timestamp": "2025-06-14 11:53:02"
+  },
+  {
+    "sector_id": 794,
+    "drone_id": 1,
+    "center_latitude": 22.5224138,
+    "center_longitude": 75.9212254,
+    "timestamp": "2025-06-14 11:53:07"
+  },
+  {
+    "sector_id": 795,
+    "drone_id": 1,
+    "center_latitude": 22.5226389,
+    "center_longitude": 75.9212249,
+    "timestamp": "2025-06-14 11:53:12"
+  },
+  {
+    "sector_id": 796,
+    "drone_id": 1,
+    "center_latitude": 22.5228639,
+    "center_longitude": 75.921225,
+    "timestamp": "2025-06-14 11:53:17"
+  },
+  {
+    "sector_id": 797,
+    "drone_id": 1,
+    "center_latitude": 22.5230899,
+    "center_longitude": 75.9212243,
+    "timestamp": "2025-06-14 11:53:22"
+  },
+  {
+    "sector_id": 798,
+    "drone_id": 1,
+    "center_latitude": 22.5233158,
+    "center_longitude": 75.9212244,
+    "timestamp": "2025-06-14 11:53:27"
+  },
+  {
+    "sector_id": 799,
+    "drone_id": 1,
+    "center_latitude": 22.5235413,
+    "center_longitude": 75.9212246,
+    "timestamp": "2025-06-14 11:53:32"
+  },
+  {
+    "sector_id": 800,
+    "drone_id": 1,
+    "center_latitude": 22.5237665,
+    "center_longitude": 75.9212253,
+    "timestamp": "2025-06-14 11:53:37"
+  },
+  {
+    "sector_id": 801,
+    "drone_id": 1,
+    "center_latitude": 22.5239915,
+    "center_longitude": 75.9212249,
+    "timestamp": "2025-06-14 11:53:42"
+  },
+  {
+    "sector_id": 802,
+    "drone_id": 1,
+    "center_latitude": 22.5242167,
+    "center_longitude": 75.921224,
+    "timestamp": "2025-06-14 11:53:47"
+  },
+  {
+    "sector_id": 803,
+    "drone_id": 1,
+    "center_latitude": 22.5244424,
+    "center_longitude": 75.9212241,
+    "timestamp": "2025-06-14 11:53:52"
+  },
+  {
+    "sector_id": 804,
+    "drone_id": 1,
+    "center_latitude": 22.5246678,
+    "center_longitude": 75.9212245,
+    "timestamp": "2025-06-14 11:53:57"
+  },
+  {
+    "sector_id": 805,
+    "drone_id": 1,
+    "center_latitude": 22.524893,
+    "center_longitude": 75.9212242,
+    "timestamp": "2025-06-14 11:54:02"
+  },
+  {
+    "sector_id": 806,
+    "drone_id": 1,
+    "center_latitude": 22.525119,
+    "center_longitude": 75.9212249,
+    "timestamp": "2025-06-14 11:54:07"
+  },
+  {
+    "sector_id": 807,
+    "drone_id": 1,
+    "center_latitude": 22.5253445,
+    "center_longitude": 75.9212245,
+    "timestamp": "2025-06-14 11:54:12"
+  },
+  {
+    "sector_id": 808,
+    "drone_id": 1,
+    "center_latitude": 22.5255696,
+    "center_longitude": 75.9212249,
+    "timestamp": "2025-06-14 11:54:17"
+  },
+  {
+    "sector_id": 809,
+    "drone_id": 1,
+    "center_latitude": 22.5257953,
+    "center_longitude": 75.921225,
+    "timestamp": "2025-06-14 11:54:22"
+  },
+  {
+    "sector_id": 810,
+    "drone_id": 1,
+    "center_latitude": 22.5260205,
+    "center_longitude": 75.9212238,
+    "timestamp": "2025-06-14 11:54:27"
+  },
+  {
+    "sector_id": 811,
+    "drone_id": 1,
+    "center_latitude": 22.5262455,
+    "center_longitude": 75.9212249,
+    "timestamp": "2025-06-14 11:54:32"
+  },
+  {
+    "sector_id": 812,
+    "drone_id": 1,
+    "center_latitude": 22.5260745,
+    "center_longitude": 75.9213713,
+    "timestamp": "2025-06-14 11:54:48"
+  },
+  {
+    "sector_id": 813,
+    "drone_id": 1,
+    "center_latitude": 22.5258664,
+    "center_longitude": 75.9214569,
+    "timestamp": "2025-06-14 11:54:53"
+  },
+  {
+    "sector_id": 814,
+    "drone_id": 1,
+    "center_latitude": 22.5256415,
+    "center_longitude": 75.9214699,
+    "timestamp": "2025-06-14 11:54:58"
+  },
+  {
+    "sector_id": 815,
+    "drone_id": 1,
+    "center_latitude": 22.525416,
+    "center_longitude": 75.9214685,
+    "timestamp": "2025-06-14 11:55:03"
+  },
+  {
+    "sector_id": 816,
+    "drone_id": 1,
+    "center_latitude": 22.5251904,
+    "center_longitude": 75.9214679,
+    "timestamp": "2025-06-14 11:55:08"
+  },
+  {
+    "sector_id": 817,
+    "drone_id": 1,
+    "center_latitude": 22.5249644,
+    "center_longitude": 75.9214685,
+    "timestamp": "2025-06-14 11:55:13"
+  },
+  {
+    "sector_id": 818,
+    "drone_id": 1,
+    "center_latitude": 22.5247394,
+    "center_longitude": 75.9214681,
+    "timestamp": "2025-06-14 11:55:18"
+  },
+  {
+    "sector_id": 819,
+    "drone_id": 1,
+    "center_latitude": 22.5245142,
+    "center_longitude": 75.9214684,
+    "timestamp": "2025-06-14 11:55:23"
+  },
+  {
+    "sector_id": 820,
+    "drone_id": 1,
+    "center_latitude": 22.524289,
+    "center_longitude": 75.9214682,
+    "timestamp": "2025-06-14 11:55:28"
+  },
+  {
+    "sector_id": 821,
+    "drone_id": 1,
+    "center_latitude": 22.5240638,
+    "center_longitude": 75.9214683,
+    "timestamp": "2025-06-14 11:55:33"
+  },
+  {
+    "sector_id": 822,
+    "drone_id": 1,
+    "center_latitude": 22.5238388,
+    "center_longitude": 75.9214692,
+    "timestamp": "2025-06-14 11:55:38"
+  },
+  {
+    "sector_id": 823,
+    "drone_id": 1,
+    "center_latitude": 22.5236132,
+    "center_longitude": 75.9214691,
+    "timestamp": "2025-06-14 11:55:43"
+  },
+  {
+    "sector_id": 824,
+    "drone_id": 1,
+    "center_latitude": 22.5233879,
+    "center_longitude": 75.9214681,
+    "timestamp": "2025-06-14 11:55:48"
+  },
+  {
+    "sector_id": 825,
+    "drone_id": 1,
+    "center_latitude": 22.5231626,
+    "center_longitude": 75.9214677,
+    "timestamp": "2025-06-14 11:55:53"
+  },
+  {
+    "sector_id": 826,
+    "drone_id": 1,
+    "center_latitude": 22.5229374,
+    "center_longitude": 75.9214677,
+    "timestamp": "2025-06-14 11:55:58"
+  },
+  {
+    "sector_id": 827,
+    "drone_id": 1,
+    "center_latitude": 22.5227122,
+    "center_longitude": 75.9214676,
+    "timestamp": "2025-06-14 11:56:03"
+  },
+  {
+    "sector_id": 828,
+    "drone_id": 1,
+    "center_latitude": 22.5224868,
+    "center_longitude": 75.9214678,
+    "timestamp": "2025-06-14 11:56:09"
+  },
+  {
+    "sector_id": 829,
+    "drone_id": 1,
+    "center_latitude": 22.5222609,
+    "center_longitude": 75.9214675,
+    "timestamp": "2025-06-14 11:56:14"
+  },
+  {
+    "sector_id": 830,
+    "drone_id": 1,
+    "center_latitude": 22.5220358,
+    "center_longitude": 75.921468,
+    "timestamp": "2025-06-14 11:56:19"
+  },
+  {
+    "sector_id": 831,
+    "drone_id": 1,
+    "center_latitude": 22.5218102,
+    "center_longitude": 75.9214685,
+    "timestamp": "2025-06-14 11:56:24"
+  },
+  {
+    "sector_id": 832,
+    "drone_id": 1,
+    "center_latitude": 22.5215849,
+    "center_longitude": 75.9214682,
+    "timestamp": "2025-06-14 11:56:29"
+  },
+  {
+    "sector_id": 833,
+    "drone_id": 1,
+    "center_latitude": 22.5213594,
+    "center_longitude": 75.9214682,
+    "timestamp": "2025-06-14 11:56:34"
+  },
+  {
+    "sector_id": 834,
+    "drone_id": 1,
+    "center_latitude": 22.5211334,
+    "center_longitude": 75.9214674,
+    "timestamp": "2025-06-14 11:56:39"
+  },
+  {
+    "sector_id": 835,
+    "drone_id": 1,
+    "center_latitude": 22.520908,
+    "center_longitude": 75.9214673,
+    "timestamp": "2025-06-14 11:56:44"
+  },
+  {
+    "sector_id": 836,
+    "drone_id": 1,
+    "center_latitude": 22.5206829,
+    "center_longitude": 75.9214673,
+    "timestamp": "2025-06-14 11:56:49"
+  },
+  {
+    "sector_id": 837,
+    "drone_id": 1,
+    "center_latitude": 22.5204576,
+    "center_longitude": 75.921468,
+    "timestamp": "2025-06-14 11:56:54"
+  },
+  {
+    "sector_id": 838,
+    "drone_id": 1,
+    "center_latitude": 22.5202324,
+    "center_longitude": 75.9214682,
+    "timestamp": "2025-06-14 11:56:59"
+  },
+  {
+    "sector_id": 839,
+    "drone_id": 1,
+    "center_latitude": 22.5200073,
+    "center_longitude": 75.9214677,
+    "timestamp": "2025-06-14 11:57:04"
+  },
+  {
+    "sector_id": 840,
+    "drone_id": 1,
+    "center_latitude": 22.5197818,
+    "center_longitude": 75.9214676,
+    "timestamp": "2025-06-14 11:57:09"
+  },
+  {
+    "sector_id": 841,
+    "drone_id": 1,
+    "center_latitude": 22.5199388,
+    "center_longitude": 75.9216291,
+    "timestamp": "2025-06-14 11:57:23"
+  },
+  {
+    "sector_id": 842,
+    "drone_id": 1,
+    "center_latitude": 22.5201474,
+    "center_longitude": 75.9217157,
+    "timestamp": "2025-06-14 11:57:29"
+  },
+  {
+    "sector_id": 843,
+    "drone_id": 1,
+    "center_latitude": 22.5203734,
+    "center_longitude": 75.9217129,
+    "timestamp": "2025-06-14 11:57:34"
+  },
+  {
+    "sector_id": 844,
+    "drone_id": 1,
+    "center_latitude": 22.5205985,
+    "center_longitude": 75.9217114,
+    "timestamp": "2025-06-14 11:57:39"
+  },
+  {
+    "sector_id": 845,
+    "drone_id": 1,
+    "center_latitude": 22.520824,
+    "center_longitude": 75.9217107,
+    "timestamp": "2025-06-14 11:57:44"
+  },
+  {
+    "sector_id": 846,
+    "drone_id": 1,
+    "center_latitude": 22.52105,
+    "center_longitude": 75.9217106,
+    "timestamp": "2025-06-14 11:57:49"
+  },
+  {
+    "sector_id": 847,
+    "drone_id": 1,
+    "center_latitude": 22.5212756,
+    "center_longitude": 75.9217115,
+    "timestamp": "2025-06-14 11:57:54"
+  },
+  {
+    "sector_id": 848,
+    "drone_id": 1,
+    "center_latitude": 22.5215013,
+    "center_longitude": 75.9217116,
+    "timestamp": "2025-06-14 11:57:59"
+  },
+  {
+    "sector_id": 849,
+    "drone_id": 1,
+    "center_latitude": 22.5217269,
+    "center_longitude": 75.9217116,
+    "timestamp": "2025-06-14 11:58:04"
+  },
+  {
+    "sector_id": 850,
+    "drone_id": 1,
+    "center_latitude": 22.5219529,
+    "center_longitude": 75.9217111,
+    "timestamp": "2025-06-14 11:58:09"
+  },
+  {
+    "sector_id": 851,
+    "drone_id": 1,
+    "center_latitude": 22.522178,
+    "center_longitude": 75.9217123,
+    "timestamp": "2025-06-14 11:58:14"
+  },
+  {
+    "sector_id": 852,
+    "drone_id": 1,
+    "center_latitude": 22.522403,
+    "center_longitude": 75.9217119,
+    "timestamp": "2025-06-14 11:58:19"
+  },
+  {
+    "sector_id": 853,
+    "drone_id": 1,
+    "center_latitude": 22.5226281,
+    "center_longitude": 75.9217111,
+    "timestamp": "2025-06-14 11:58:24"
+  },
+  {
+    "sector_id": 854,
+    "drone_id": 1,
+    "center_latitude": 22.5228531,
+    "center_longitude": 75.9217108,
+    "timestamp": "2025-06-14 11:58:29"
+  },
+  {
+    "sector_id": 855,
+    "drone_id": 1,
+    "center_latitude": 22.5230782,
+    "center_longitude": 75.9217111,
+    "timestamp": "2025-06-14 11:58:34"
+  },
+  {
+    "sector_id": 856,
+    "drone_id": 1,
+    "center_latitude": 22.5233032,
+    "center_longitude": 75.9217112,
+    "timestamp": "2025-06-14 11:58:39"
+  },
+  {
+    "sector_id": 857,
+    "drone_id": 1,
+    "center_latitude": 22.5235287,
+    "center_longitude": 75.9217112,
+    "timestamp": "2025-06-14 11:58:44"
+  },
+  {
+    "sector_id": 858,
+    "drone_id": 1,
+    "center_latitude": 22.5237541,
+    "center_longitude": 75.9217116,
+    "timestamp": "2025-06-14 11:58:49"
+  },
+  {
+    "sector_id": 859,
+    "drone_id": 1,
+    "center_latitude": 22.52398,
+    "center_longitude": 75.9217114,
+    "timestamp": "2025-06-14 11:58:54"
+  },
+  {
+    "sector_id": 860,
+    "drone_id": 1,
+    "center_latitude": 22.524205,
+    "center_longitude": 75.9217113,
+    "timestamp": "2025-06-14 11:58:59"
+  },
+  {
+    "sector_id": 861,
+    "drone_id": 1,
+    "center_latitude": 22.5244301,
+    "center_longitude": 75.9217115,
+    "timestamp": "2025-06-14 11:59:04"
+  },
+  {
+    "sector_id": 862,
+    "drone_id": 1,
+    "center_latitude": 22.5246555,
+    "center_longitude": 75.9217116,
+    "timestamp": "2025-06-14 11:59:09"
+  },
+  {
+    "sector_id": 863,
+    "drone_id": 1,
+    "center_latitude": 22.5248814,
+    "center_longitude": 75.9217116,
+    "timestamp": "2025-06-14 11:59:14"
+  },
+  {
+    "sector_id": 864,
+    "drone_id": 1,
+    "center_latitude": 22.5246653,
+    "center_longitude": 75.9217749,
+    "timestamp": "2025-06-14 11:59:30"
+  },
+  {
+    "sector_id": 865,
+    "drone_id": 1,
+    "center_latitude": 22.5244425,
+    "center_longitude": 75.9218113,
+    "timestamp": "2025-06-14 11:59:35"
+  },
+  {
+    "sector_id": 866,
+    "drone_id": 1,
+    "center_latitude": 22.5242205,
+    "center_longitude": 75.9218476,
+    "timestamp": "2025-06-14 11:59:40"
+  },
+  {
+    "sector_id": 867,
+    "drone_id": 1,
+    "center_latitude": 22.5239977,
+    "center_longitude": 75.9218847,
+    "timestamp": "2025-06-14 11:59:45"
+  },
+  {
+    "sector_id": 868,
+    "drone_id": 1,
+    "center_latitude": 22.5237755,
+    "center_longitude": 75.9219209,
+    "timestamp": "2025-06-14 11:59:50"
+  },
+  {
+    "sector_id": 869,
+    "drone_id": 1,
+    "center_latitude": 22.5235526,
+    "center_longitude": 75.921956,
+    "timestamp": "2025-06-14 11:59:55"
+  },
+  {
+    "sector_id": 870,
+    "drone_id": 1,
+    "center_latitude": 22.5233299,
+    "center_longitude": 75.9219221,
+    "timestamp": "2025-06-14 12:00:03"
+  },
+  {
+    "sector_id": 871,
+    "drone_id": 1,
+    "center_latitude": 22.5231347,
+    "center_longitude": 75.9218098,
+    "timestamp": "2025-06-14 12:00:08"
+  },
+  {
+    "sector_id": 872,
+    "drone_id": 1,
+    "center_latitude": 22.5229394,
+    "center_longitude": 75.9216972,
+    "timestamp": "2025-06-14 12:00:13"
+  },
+  {
+    "sector_id": 873,
+    "drone_id": 1,
+    "center_latitude": 22.522744,
+    "center_longitude": 75.9215842,
+    "timestamp": "2025-06-14 12:00:18"
+  },
+  {
+    "sector_id": 874,
+    "drone_id": 1,
+    "center_latitude": 22.5225489,
+    "center_longitude": 75.9214711,
+    "timestamp": "2025-06-14 12:00:23"
+  },
+  {
+    "sector_id": 875,
+    "drone_id": 1,
+    "center_latitude": 22.5223534,
+    "center_longitude": 75.9213589,
+    "timestamp": "2025-06-14 12:00:28"
+  },
+  {
+    "sector_id": 876,
+    "drone_id": 1,
+    "center_latitude": 22.5221578,
+    "center_longitude": 75.9212469,
+    "timestamp": "2025-06-14 12:00:33"
+  },
+  {
+    "sector_id": 877,
+    "drone_id": 1,
+    "center_latitude": 22.5219624,
+    "center_longitude": 75.9211345,
+    "timestamp": "2025-06-14 12:00:38"
+  },
+  {
+    "sector_id": 878,
+    "drone_id": 1,
+    "center_latitude": 22.5217672,
+    "center_longitude": 75.9210217,
+    "timestamp": "2025-06-14 12:00:43"
+  },
+  {
+    "sector_id": 879,
+    "drone_id": 1,
+    "center_latitude": 22.5215717,
+    "center_longitude": 75.920909,
+    "timestamp": "2025-06-14 12:00:48"
+  },
+  {
+    "sector_id": 880,
+    "drone_id": 1,
+    "center_latitude": 22.5213762,
+    "center_longitude": 75.9207971,
+    "timestamp": "2025-06-14 12:00:53"
+  },
+  {
+    "sector_id": 881,
+    "drone_id": 1,
+    "center_latitude": 22.5211812,
+    "center_longitude": 75.9206844,
+    "timestamp": "2025-06-14 12:00:58"
+  },
+  {
+    "sector_id": 882,
+    "drone_id": 1,
+    "center_latitude": 22.5209861,
+    "center_longitude": 75.9205724,
+    "timestamp": "2025-06-14 12:01:02"
+  },
+  {
+    "sector_id": 883,
+    "drone_id": 1,
+    "center_latitude": 22.5207912,
+    "center_longitude": 75.92046,
+    "timestamp": "2025-06-14 12:01:07"
+  },
+  {
+    "sector_id": 884,
+    "drone_id": 1,
+    "center_latitude": 22.5205956,
+    "center_longitude": 75.9203478,
+    "timestamp": "2025-06-14 12:01:12"
+  },
+  {
+    "sector_id": 885,
+    "drone_id": 1,
+    "center_latitude": 22.5204,
+    "center_longitude": 75.9202353,
+    "timestamp": "2025-06-14 12:01:17"
+  },
+  {
+    "sector_id": 886,
+    "drone_id": 1,
+    "center_latitude": 22.5202047,
+    "center_longitude": 75.9201223,
+    "timestamp": "2025-06-14 12:01:22"
+  },
+  {
+    "sector_id": 887,
+    "drone_id": 1,
+    "center_latitude": 22.5200095,
+    "center_longitude": 75.9200105,
+    "timestamp": "2025-06-14 12:01:30"
+  }
+]

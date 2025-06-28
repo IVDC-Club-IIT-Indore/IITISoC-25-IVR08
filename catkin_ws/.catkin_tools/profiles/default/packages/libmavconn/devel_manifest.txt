@@ -1,0 +1,6 @@
+mavros/libmavconn
+/root/catkin_ws/devel/.private/libmavconn/lib/libmavconn.so /root/catkin_ws/devel/lib/libmavconn.so
+/root/catkin_ws/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc /root/catkin_ws/devel/lib/pkgconfig/libmavconn.pc
+/root/catkin_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake /root/catkin_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+/root/catkin_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake /root/catkin_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+/root/catkin_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake /root/catkin_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake

@@ -1,0 +1,8 @@
+<launch>
+  <node pkg="geotag" type="Geotagger.py" name="real_time_geotagger_with_kml" output="screen">
+    <param name="output_file" value="$(find geotag)/scripts/real_geotags.json"/>
+    <param name="drone_id" value="1"/>
+    <param name="spacing_m" value="25"/>
+    <param name="kml_file" value="$(find geotag)/scripts/farm_iitindore.kml"/>
+  </node>
+</launch>

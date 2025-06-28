@@ -1,0 +1,2 @@
+geotag:mavlink:mavros/libmavconn:mavros/mavros:mavros/mavros_extras:mavros/mavros_msgs:mavros/test_mavros
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/root/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/root/catkin_ws/install_isolated

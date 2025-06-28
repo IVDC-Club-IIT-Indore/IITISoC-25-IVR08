@@ -1,0 +1,34 @@
+<launch>
+
+  <!-- Gazebo empty world -->
+  <include file="$(find gazebo_ros)/launch/empty_world.launch" />
+
+  <!-- UAV 1 -->
+  <group ns="uav1">
+    <include file="$(find px4)/launch/single_vehicle_spawn.launch">
+      <arg name="x" value="0"/>
+      <arg name="y" value="0"/>
+      <arg name="vehicle" value="iris"/>
+      <arg name="ID" value="1"/>
+    </include>
+    <include file="$(find mavros)/launch/px4.launch">
+      <arg name="fcu_url" value="udp://:14541@127.0.0.1:14581"/>
+      <arg name="tgt_system" value="1"/>
+    </include>
+  </group>
+
+  <!-- UAV 2 -->
+  <group ns="uav2">
+    <include file="$(find px4)/launch/single_vehicle_spawn.launch">
+      <arg name="x" value="2"/>
+      <arg name="y" value="0"/>
+      <arg name="vehicle" value="iris"/>
+      <arg name="ID" value="2"/>
+    </include>
+    <include file="$(find mavros)/launch/px4.launch">
+      <arg name="fcu_url" value="udp://:14542@127.0.0.1:14582"/>
+      <arg name="tgt_system" value="2"/>
+    </include>
+  </group>
+
+</launch>
